@@ -1,0 +1,359 @@
+<result>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%205%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2020%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%202%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%207%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%209%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%203%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2016%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2018%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%208%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%204%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2015%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%206%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2013%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2011%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2012%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2017%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2014%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2021%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2019%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2010%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%201%20Tramutola.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
+                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
+                keyref)*)). A problem was found starting at: alternative.</message>
+            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
+                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
+                too often.</message>
+            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
+                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
+                occurs too often.</message>
+            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
+                element 'atom:entry'.</message>
+        </report>
+    </validationResult>
+</result>

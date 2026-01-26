@@ -1,0 +1,151 @@
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>9</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Obligatio</cei:class>
+                    <cei:abstract>Pietro, figlio del fu Giovanni Guerra, dà ad Amato, priore di S. Pietro di Tramutola, la 
+                        <cei:quote>guadia</cei:quote> su quei beni, situati presso 
+                        <cei:quote>Campo Battalie </cei:quote> e 
+                        <cei:quote>de Rumata</cei:quote>, che il padre Giovanni Guerra aveva donato in punto di morte al monastero.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date>1147 dicembre</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XXVII 24</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition> Nella parte destra della pergamena è presente un difetto originario.</cei:condition>
+                            <cei:dimensions>mm 320x185</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Ildemannus</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum> Sul verso, mano sec. XII: «Carta sancti Petri Tramutule da Petro Guerre»; mano sec. XIII: «Carta sancti Petri de Tramutula»; mano Venereo: «Guadia data priori ecclesiae sancti Petri de Tramutula a Petro filio Iohannis guerrae de civitate Marsici quod numquam ecclesiam molestabit pro terris eidem oblatis a patre suo in ultima infirmitate, quas habet in Campo Batalię et de Rumata. Anno 1148», «Arca 79, n° 4»; mano secc. XVII-XVIII: «1148»; mano sec. XIX: «Arca XXVII, n° 24».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1943, pp. 105-106, n. 12 (con data 1148 dicembre).</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Visentin 2015, p. 130 (con data 1148 dicembre).</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p> Il notaio Ildemanno adopera la legatura 
+                            <cei:quote>sp</cei:quote> in 
+                            <cei:quote>Iaspidi</cei:quote> (riga 4), assente negli altri documenti da lui scritti e forse ripresa dalla sottoscrizione del giudice. Le sottoscrizioni sono entrambe autografe. Iaspido ha sottoscritto dopo che Giovanni aveva già apposto la sua sottoscrizione: egli ha interrotto la propria sottoscrizione a 
+                            <cei:quote>iudex</cei:quote> per la presenza del 
+                            <cei:quote>signum</cei:quote> del notaio, riprendendola subito dopo. La scrittura del notaio Giovanni ha diversi elementi decorativi, tra cui svolazzi e tratti raddoppiati con un sottile tratto di penna. Il segno abbreviativo presente sul nome di Giovanni (un 
+                            <cei:quote>titulus planus</cei:quote> decorato con delle 
+                            <cei:quote>virgulae</cei:quote>) ritorna anche nel nome del notaio rogatario dei docc. yyyy, suggerendo che si tratti della stessa persona. Gli elementi della datazione dimostrano l’uso dello stile bizantino, che Ildemanno adopera chiaramente anche nel doc. 1. Mattei Cerasoli e Visentin propongono invece il dicembre 1148, ma la proposta non è condivisibile
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica e verbale">+ In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno ab incarnatjone eiusdem millesimo C quadragesimo 
+                            <cei:lb/>octabo, mense decembris, indictjone undecima.
+                        </cei:datatio> 
+                        <cei:intitulatio>Ego 
+                            <cei:persName>Petrus</cei:persName> filius 
+                            <cei:persName>Iohannis Guerre</cei:persName> 
+                            <cei:lb/>de civitate
+                            <cei:placeName>Marsici</cei:placeName> 
+                        </cei:intitulatio> declaro quoniam bona mea voluntate ante presentjam 
+                        <cei:sic>domini</cei:sic> 
+                        <cei:lb/> 
+                        <cei:persName>Iaspidi</cei:persName> iudicis aliorumque bonorum hominum subscriptorum testium 
+                        <cei:dispositio>vadiam dedi</cei:dispositio> 
+                        <cei:lb/>domno 
+                        <cei:persName>Amato</cei:persName> priori de ecclesia 
+                        <cei:persName>sancti Petri de Tramutula</cei:persName> simul cum eo recipiente 
+                        <cei:lb/>
+                        <cei:persName>Rogerio</cei:persName> filio domni
+                        <cei:persName>Viti</cei:persName> iudicis, fideiussoribus posui 
+                        <cei:persName>Perrono Cutunei</cei:persName> et 
+                        <cei:persName>Ursone 
+                            <cei:lb/>Fontana</cei:persName> eiusdem civitatis 
+                        <cei:placeName>Marsici</cei:placeName>. Eo tenore, ut de terris quas predictus 
+                        <cei:lb/>pater meus dum ad mortem venit pro anima sua cum sana memoria iudica<cei:lb/>vit et tradidit, scilicet ad ecclesiam predictam 
+                        <cei:placeName>sancti Petri</cei:placeName> nec ego nec mei 
+                        <cei:lb/>heredes veniamus exinde super eandem matrem ecclesiam neque super ullos successores 
+                        <cei:lb/>custosque et rector iamdictam ipsam ecclesiam ullo modo vel ingenio de terris vide<cei:lb/>licet quas habebat in 
+                        <cei:placeName>Campo Battalie</cei:placeName> et 
+                        <cei:placeName>de Rumata</cei:placeName>. Et si hec omnia predicta 
+                        <cei:lb/>disrumpere aut retornare quesierimus et per causatjonem vel legem exinde vobiscum 
+                        <cei:lb/>intraverimus, obligo me et meos heredes componere vobis et iamdicte ecclesie reales aure<cei:lb/>os bonos viginti, similiter in puplico et que preleguntur impleamus inviti, 
+                        <cei:lb/>districtis ipsis predictis mediatoribus qui licentjam tribuerunt eidem sancte ecclesie et tibi 
+                        <cei:lb/>domno priori tuisque successoribus pignerandi se suosque heredes per omnia eorum pignera 
+                        <cei:lb/>legitima et inlegitima sine cal<cei:expan>umnia</cei:expan> et appellatjone donec quod supra legitur inviti adimpleatur. 
+                        <cei:lb/> 
+                        <cei:setPhrase type="Declaratio notarii">Et hanc cartulam obligatjonis scripsit    
+                            <cei:persName>Ildemannus</cei:persName> notarius qui interfuisse se con<cei:lb/>fitetur;
+                        </cei:setPhrase>mense et indictjone prelatis. 
+                        <cei:notariussign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego 
+                            <cei:persName>Riccardus</cei:persName> iud<cei:expan>ex</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+
+                            <cei:persName>Iaspidus</cei:persName> hoc totu<cei:expan>m</cei:expan> iudex p<cei:expan>ro</cei:expan>bat ordine notu<cei:expan>m</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Ild<cei:exp>e</cei:exp>mann<cei:expan>us</cei:expan></cei:persName> iud<cei:expan>e</cei:expan>x.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+
+
+
+
+
+
+

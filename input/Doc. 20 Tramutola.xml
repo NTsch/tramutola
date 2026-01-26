@@ -1,0 +1,179 @@
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>20</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Concessio et confirmatio</cei:class>
+                    <cei:abstract>Giovanni III, vescovo di Marsico e un tempo monaco cavense, dietro richiesta di Marino, abate cavense, conferma il possesso della chiesa di S. Pietro di Tramutola e consacra la chiesa della Ss. Trinità, pertinenza della chiesa di S. Pietro, costruita 
+                        <cei:quote>a novo fundamine</cei:quote>, dietro il pagamento dello stesso censo che veniva versato al predecessore, esentando entrambe le chiese dal pagamento del tributo per la sepoltura dei morti.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date>1166 giugno</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>H 45</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition> La rigatura è a secco.</cei:condition>
+                            <cei:dimensions>mm 500x365 con la
+                                <cei:quote>plica</cei:quote> (mm 43) chiusa.
+                            </cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Salomon</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum> Sul verso, mano Venereo: «Diploma Iohannis tertii episcopi Marsici; de confirmatione, consecratione et libertate ecclesiarum sancti Petri et sancte Trinitatis de Tramutulo cum omnibus tenimentis, iuribus et bonis suis, capitulo et clero Marsicano consentientibus. Anno Domini 1166, mense iunii, 14a indictione», «Armario I°, e n° V°»; mano secc. XVIII-XIX: «Armario I, n° 7»; mano sec. XIX: «Armario H, n° 45». Sulla plica, mano del notaio: «eiu».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1943, pp. 115-116, n. 18.</cei:bibl>
+                            <cei:bibl>Palestina, pp. 39-40, n. 20.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Starace, pp. 15-16.</cei:bibl>
+                            <cei:bibl>Di Meo, X, p. 299.</cei:bibl>
+                            <cei:bibl>Houben 1996, pp. 127-128.</cei:bibl>
+                            <cei:bibl>Houben 2006, pp. 379-380.</cei:bibl>
+                            <cei:bibl>Visentin 2014, p. 31.</cei:bibl>
+                            <cei:bibl>Visentin 2015, p. 133.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>In questo documento la mano del notaio Salomon non ha l’impronta libraria che caratterizza gli altri documenti da lui rogati, ma presenta aste ascendenti più sviluppate (l’interlinea è più ampia), una maggiore spaziatura tra le lettere e la frequente resa del 
+                            <cei:quote>titulus planus</cei:quote> con una piccola curva al centro. Il testo della sottoscrizione del vescovo è di mano del notaio, mentre la croce potrebbe essere autografa: è vergata con tratti visibilmente più sottili ed è situata al di sotto del rigo di scrittura del resto della sottoscrizione. Le sottoscrizioni dell’arciprete Pietro, di Vito, Ioseph, Ottone e Clado sembrano scritte da una stessa mano, forse diversa da quella del notaio. Di quella di Giovanni è autografo il segno di croce e 
+                            <cei:quote>Eg-</cei:quote>, in inchiosto più chiaro rispetto al resto della sottoscrizione, ma la mano che ha continuato non è chiaramente riconducibile a nessun’altra di quelle presenti. Tutte le altre sottoscrizioni sono interamente autografe. Il sigillo, in cera bruna, è unito alla pergamena da fascette di cuoio e ha un diametro complessivo di mm 40x50 (l’impressione è ellittica, mm 35x30). È spezzato in più pezzi e sono visibili le fascette di cuoio che si trovano all’interno della cera.
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:hi rend="/lettere maiuscole/">
+                            <cei:persName>Marinus</cei:persName>, 
+                        </cei:hi>, Dei gratia venerabilis 
+                        <cei:placeName>Cavensis</cei:placeName> abbas, cuius persona plurimum est veneranda, et propter religionem conventus cui preest et pro sui hone<cei:lb></cei:lb>state diligenda non minus, 
+                        <cei:intitulatio>nos 
+                            <cei:persName>Iohannem</cei:persName> eadem gratia 
+                            <cei:placeName>Marsicane</cei:placeName> ecclesie dispensatorem humillimum et iamdicte professionis quondam indignum monachum 
+                        </cei:intitulatio> pie rogavit quatenus 
+                        <cei:lb/>ecclesiam quam ad honorem 
+                        <cei:placeName>sancte et individue Trinitatis</cei:placeName> in fundo vestre ecclesiae 
+                        <cei:placeName>sancti Petri de Tramutulo</cei:placeName>, quam cum omnibus rebus suis monasterio 
+                        <cei:placeName>Cavensi</cei:placeName> predecessor noster 
+                        <cei:lb/>concessit et nos concedimus et confirmamus, ex novo fundamine construi fecerat dedicaremus. Et quia omnino sua est exaudienda petitio habito et communicato 
+                        <cei:lb/>fratrum nostrorum, consilio eorum etiam et consensu, ipsam ecclesiam ad honorem sancte Trinitatis sollempniter dedicavimus, hac nostre concessionis pagina 
+                        <cei:dispositio>concedentes et con<cei:lb/>firmantes</cei:dispositio> quatenus ambe suprascripte ecclesie cum omnibus rebus et tenimentis quas nunc habent et habiture sunt, sint semper in potestate ipsius domni abbatis et 
+                        <cei:lb/>successorum eius et prephati monasterii faciendum quod voluerint absque contrarietate nostra nostrorumque successorum, et in eisdem ecclesiis monachos et sacerdotes 
+                        <cei:lb/>et clericos proprio arbitrio pro ipsis ecclesiis gubernandis, regendis et officiandis immittere et habere ab omni episcopali honere inmunes conservandos. In quarum 
+                        <cei:lb/>etiam cimiteriis factis et faciendis undecumque mortuorum cadavera deleta fuerint absque qualibet exactione nostra nostrorumque successorum sepelire liceat. Consecra<cei:lb/>tiones etiam altarium ipsarum ecclesiarum si quando opus fuerit et earumdem clericorum ordinationes nichilominus sanctum oleum et chrisma a nobis nostrisque successoribus 
+                        <cei:lb/>prephate ecclesie et earum clerici peteant et suscipiant si nos nostrique successores suprascripta eis dare gratis voluerimus. Alioquin a quocumque catholico episcopo voluerint, illa 
+                        <cei:lb/>recipiant. Huic nostre concessioni adicientes ut nichil omnino ab ipsis ecclesiis earumque monachis et sacerdotibus et clericis vel hominibus qui sunt iuris 
+                        <cei:lb/>et ditionis ipsarum ecclesiarum petere possimus nisi solitum censum quem suprascripta ecclesia 
+                        <cei:placeName>sancti Petri</cei:placeName> nobis nostrisque successoribus secundum tenorem concessionis domni 
+                        <cei:persName>Iohannis</cei:persName> episcopi 
+                        <cei:lb/>bone memorie predicti predecessoris nostri solvere consuevit. Si quis vero huic nostre concessioni temerario ausu refragari temptaverit nisi resipuerit nostra episcopali 
+                        <cei:lb/>auctoritate perpetuo subiaceat anathemati. Hanc vero nostre concessionis paginam tibi 
+                        <cei:persName>Salomoni</cei:persName> nostro notario scribere precepimus et cereo nostro sigillo bullari et eam signo 
+                        <cei:lb/>sancte crucis propria manu signavimus. 
+                        <cei:datatio type="cronica"> In anno dominice incarnationis millesimo centesimo sexagesimo sexto, mense iunii, indicione quartadecima.</cei:datatio>
+                        <cei:notariussign/>
+                        <cei:lb/><cei:subscriptio type="Subscriptio episcopi">+ 
+                            <cei:hi rend="/lettere maiuscole/">Ego 
+                                <cei:persName>Iohannes</cei:persName> tercius 
+                            </cei:hi>huius nominis Marsicanus episcopus concessi 
+                            <cei:hi rend="/lettere maiuscole">et ordinavi</cei:hi>.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Laverius</cei:persName> archidiaconus.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Petrus</cei:persName> archip<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r.
+                        </cei:subscriptio>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Vitus</cei:persName> fili<cei:expan>us</cei:expan> 
+                            <cei:persName>Sandi</cei:persName> p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r 
+                            <cei:expan>et</cei:expan> canonic<cei:expan>us</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Ioseph</cei:persName> p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r.
+                        </cei:subscriptio>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName>Oto Catarra</cei:persName> p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Cladus</cei:persName> p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Ioh<cei:expan>anne</cei:expan>s Verris</cei:persName> p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r 
+                            <cei:persName>Gottifredus</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName>Petracca Albane</cei:persName> sac<cei:expan>er</cei:expan>dos.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName>Rao</cei:persName> p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Lando</cei:persName> p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r
+                            <cei:persName>Urso Cimin<cei:expan>us</cei:expan></cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName>Petrus</cei:persName> fili<cei:expan>us</cei:expan> 
+                            <cei:persName>Truppi</cei:persName> canonic<cei:expan>us</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:seal type="Sigillum impressum"/>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+
+
+
+
+
+
+

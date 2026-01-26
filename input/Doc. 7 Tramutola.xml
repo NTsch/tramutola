@@ -1,0 +1,159 @@
+
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>7</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Oblatio, traditio et obligatio</cei:class>
+                    <cei:abstract>Con il tramite del monaco cavense Giovanni di Marsico, Urso de Freda, Giovanni Guerra e Rico di Maginolfo, abitanti di Marsico, donano alla chiesa di S. Pietro tutto ciò che possiedono nella 
+                        <cei:quote>rai</cei:quote> detta
+                        <cei:quote>de Puzillo</cei:quote> nella valle di Tramutola per la salvezza delle anime proprie e di quelle dei loro genitori.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date>1145 aprile</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XXVI 7</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition> la parte centrale della pergamena è scurita.</cei:condition>
+                            <cei:dimensions>mm 310x225</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Iohannes</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum>Sul verso, mano del sec. XII: «Brevem oblationis Iohannis Guerre et Ricy vicc(?) et Ursonis de Freda», a cui una mano del sec. XV aggiunge: «de certe terre poste in la Ray de Puclillo et in la valle de sancto Petro de Tramutola»; mano sec. XIII: «Carta sancti Petri de Tramutula»; mano Venereo: «Oblatio terrarum et arborum quas habent a Raii quae de Puczillo cognominatur in tota valle sancti Petri Tramutulae facta ecclesiae sancti Petri ab Ursone de Freda et Iohanne Guerrae et Rico filio Maginolfi de civitate Marsici. Anno 1145», «Arca 79, n° 86»; mano sec. XVII: «Oblatio Iohannis Guerre et Ursonis de Freda de civitate Marsici facta ecclesie sancti Petri de Tram<cei:expan>utula</cei:expan> in loco Piczillo»; mano sec. XVIII: «Arca 66, n. 49»; mani sec. XIX: «Arca XXI, n. 78» parzialmente eraso, «Arca XXVI n° 70»; mano di età moderna: «E». Sul recto, prove di penna (due tratti ondulati) nell’angolo inferiore destro.
+                        </cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1943, pp. 44-45, n. 7</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Visentin 2015, p. 130.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p> Nel margine sinistro, all’altezza della concessione della 
+                            <cei:quote>guadia</cei:quote>(85 mm dal margine superiore), è presente un piccolo segno di croce, scritto con un inchiostro che sembra quello del notaio (cfr. docc. 8, 13). In questo documento il notaio Giovanni adopera, occasionalmente, la 
+                            <cei:quote>t</cei:quote> carolina. Le sottoscrizioni sono entrambe autografe.
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica e verbale">+ In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno incarnatjonis eiusdem millesimo centesimo quadragesimo quinto, mense aprilis, indictjone 
+                            <cei:lb/>octava. 
+                        </cei:datatio>
+                        <cei:intitulatio> Nos denique 
+                            <cei:persName>Urso de Freda</cei:persName> et 
+                            <cei:persName>Iohannes Guerra</cei:persName> et
+                            <cei:persName>Ricus</cei:persName> filius 
+                            <cei:persName>Maginolfi</cei:persName> de civitate 
+                            <cei:placeName>Marsicy</cei:placeName> 
+                        </cei:intitulatio> 
+                        <cei:lb/>clarefacimus quoniam presentja bonorum hominum subscriptorum testium voluntarie remedio anime nostre nostrorumque 
+                        <cei:lb/>defunctorum parentum animarum redemptjone 
+                        <cei:dispositio>obtulimus</cei:dispositio> ecclesie 
+                        <cei:placeName>sancti Petri Tramutule</cei:placeName> quantum nobis pertinuit 
+                        <cei:lb/>de terris et arboribus pomiferis videlicet et inpomiferis ab ipsa ray que cognominatur 
+                        <cei:placeName>de Puzillo</cei:placeName> et a capite revoltis 
+                        <cei:lb/><cei:placeName>Serebaldy de Perto </cei:placeName> in tota valle
+                        <cei:placeName>sancti Petri Tramutule </cei:placeName> atque baculi traditjone firmavimus eandem ipsam traditjonem 
+                        <cei:lb/>domno 
+                        <cei:persName>Iohanne</cei:persName> 
+                        <cei:placeName>Marsicy</cei:placeName>, 
+                        <cei:placeName>sancte Trinitatis de Cava </cei:placeName>monacho, una cum advocato suo 
+                        <cei:persName>Maiorano</cei:persName> filio presbiteri
+                        <cei:persName>Nor<cei:lb/>manny</cei:persName> recipiente ut a modo in antea ipse terre cum omnibus infra se habentibus et possidentibus sint predicte 
+                        <cei:lb/>ecclesie 
+                        <cei:placeName>sancti Petri Tramutule </cei:placeName> sine nostra, nostrorum heredum ac omnium hominum contrarietate et requisitjone omni futuro tempore,
+                        <cei:lb/>unde nos predicti 
+                        <cei:persName>Urso de Freda</cei:persName>, 
+                        <cei:persName>Ricus</cei:persName> et
+                        <cei:persName>Iohannes Guerra</cei:persName> vadiam eidem domno 
+                        <cei:persName>Iohanni</cei:persName> unanimiter dedimus eandem cum 
+                        <cei:lb/>advocato suo predicto recipienti, positis fideiussoribus 
+                        <cei:persName>Roggerio</cei:persName> milite filio
+                        <cei:persName>Riccardy</cei:persName> archidiacony
+                        <cei:lb/>et
+                        <cei:persName>Perrono</cei:persName> milite filio
+                        <cei:persName>Cutunei</cei:persName> predicte civitatis
+                        <cei:placeName>Marsicy</cei:placeName> ut iam nec nos nec nostri heredes hanc, 
+                        <cei:lb/>quam per fustem tradidimus, oblatjonem disrumpere vel removere seu 
+                        <cei:sic>substraere</cei:sic> ab eadem 
+                        <cei:placeName>sancti Petri ecclesia</cei:placeName> queramus 
+                        <cei:lb/>nec nos nec per a nobis personas subpositas et si aliquis homo super ipsam sanctam Dei ecclesiam exinde venerit, nos 
+                        <cei:lb/>vel heredes nostri defendamus ecclesie predicte ab omni umana persona, quod si taliter facere vel observare 
+                        <cei:lb/>noluerimus ut per legem vel causatjone cum his qui ecclesiam predictam regere vel gubernare videbuntur 
+                        <cei:lb/>venerimus modo quolibet vel ingenio obligamus nos et nostros heredes componere ipsi
+                        <cei:corr type="/con/ -e /corr. da legatura et lasciata sospesa/">ecclesie</cei:corr> solidos 
+                        <cei:corr type="/con/ -l- /corr. su altra lettera/">regales</cei:corr> 
+                        <cei:lb/>viginti et in puplico similiter, ipsis districtis fideiussoribus licentjam tribuentibus pignarandi se et suos heredes 
+                        <cei:lb/>per eorum omnia pignara legitima et inlegitima sine calumnia et appellatjone donec quod prelegitur inviti impleamus.
+                        <cei:lb/>
+                        <cei:setPhrase type="Declaratio notarii"> Et hanc oblatjonis, traditjonis et obligatjonis cartulam scripsit  
+                            <cei:persName>Iohannes</cei:persName> notarius qui interfuisse se con<cei:lb/>fitetur; 
+                        </cei:setPhrase> mense et indictjone prelatis. 
+                        <cei:notariussign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+
+                            <cei:persName>Iaspidus</cei:persName> hoc totu<cei:expan>m</cei:expan> iudex p<cei:expan>ro</cei:expan>bat ordine notu<cei:expan>m</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName>Ild<cei:exp>e</cei:exp>mann<cei:expan>us</cei:expan></cei:persName> iudex.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+
+
+
+
+
+
+
