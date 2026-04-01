@@ -1,359 +1,253 @@
 <result>
     <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%205%20Tramutola.xml</charterUri>
+        <charterUri>/db/niklas/import/tramutola/out_Doc._17_Tramutola.xml</charterUri>
         <report>
             <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
+            <duration unit="msec">22</duration>
+            <message level="Error" line="254" column="63">cvc-complex-type.2.4.a: Invalid content
+                was found starting with element 'cei:expan'. One of
+                '{"http://www.monasterium.net/NS/cei":persName,
+                "http://www.monasterium.net/NS/cei":rolename,
+                "http://www.monasterium.net/NS/cei":orgName,
+                "http://www.monasterium.net/NS/cei":placeName,
+                "http://www.monasterium.net/NS/cei":geogName,
+                "http://www.monasterium.net/NS/cei":index,
+                "http://www.monasterium.net/NS/cei":testis,
+                "http://www.monasterium.net/NS/cei":date,
+                "http://www.monasterium.net/NS/cei":dateRange,
+                "http://www.monasterium.net/NS/cei":num,
+                "http://www.monasterium.net/NS/cei":measure,
+                "http://www.monasterium.net/NS/cei":country,
+                "http://www.monasterium.net/NS/cei":region,
+                "http://www.monasterium.net/NS/cei":settlement,
+                "http://www.monasterium.net/NS/cei":arch,
+                "http://www.monasterium.net/NS/cei":archFond,
+                "http://www.monasterium.net/NS/cei":idno,
+                "http://www.monasterium.net/NS/cei":provenance,
+                "http://www.monasterium.net/NS/cei":bibl,
+                "http://www.monasterium.net/NS/cei":msIdentifier,
+                "http://www.monasterium.net/NS/cei":archIdentifier,
+                "http://www.monasterium.net/NS/cei":institution,
+                "http://www.monasterium.net/NS/cei":repository,
+                "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
+                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
+                "http://www.monasterium.net/NS/cei":c, "http://www.monasterium.net/NS/cei":ptr,
+                "http://www.monasterium.net/NS/cei":note,
+                "http://www.monasterium.net/NS/cei":figure,
+                "http://www.monasterium.net/NS/cei":anchor, "http://www.monasterium.net/NS/cei":ref,
+                "http://www.monasterium.net/NS/cei":head, "http://www.monasterium.net/NS/cei":h1,
+                "http://www.monasterium.net/NS/cei":h2, "http://www.monasterium.net/NS/cei":p,
+                "http://www.monasterium.net/NS/cei":list,
+                "http://www.monasterium.net/NS/cei":foreign,
+                "http://www.monasterium.net/NS/cei":cit, "http://www.monasterium.net/NS/cei":quote,
+                "http://www.monasterium.net/NS/cei":div, "http://www.monasterium.net/NS/cei":w,
+                "http://www.monasterium.net/NS/cei":pc, "http://www.monasterium.net/NS/cei":space,
+                "http://www.monasterium.net/NS/cei":supplied,
+                "http://www.monasterium.net/NS/cei":lacunaStart,
+                "http://www.monasterium.net/NS/cei":lacunaEnd,
+                "http://www.monasterium.net/NS/cei":witStart,
+                "http://www.monasterium.net/NS/cei":witEnd,
+                "http://www.monasterium.net/NS/cei":witDetail,
+                "http://www.monasterium.net/NS/cei":sic, "http://www.monasterium.net/NS/cei":del,
+                "http://www.monasterium.net/NS/cei":app,
+                "http://www.monasterium.net/NS/cei":unclear}' is expected.</message>
         </report>
     </validationResult>
     <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2020%20Tramutola.xml</charterUri>
+        <charterUri>/db/niklas/import/tramutola/out_Doc._19_Tramutola.xml</charterUri>
         <report>
             <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
+            <duration unit="msec">21</duration>
+            <message level="Error" line="131" column="65">cvc-complex-type.2.4.a: Invalid content
+                was found starting with element 'cei:expan'. One of
+                '{"http://www.monasterium.net/NS/cei":persName,
+                "http://www.monasterium.net/NS/cei":rolename,
+                "http://www.monasterium.net/NS/cei":orgName,
+                "http://www.monasterium.net/NS/cei":placeName,
+                "http://www.monasterium.net/NS/cei":geogName,
+                "http://www.monasterium.net/NS/cei":index,
+                "http://www.monasterium.net/NS/cei":testis,
+                "http://www.monasterium.net/NS/cei":date,
+                "http://www.monasterium.net/NS/cei":dateRange,
+                "http://www.monasterium.net/NS/cei":num,
+                "http://www.monasterium.net/NS/cei":measure,
+                "http://www.monasterium.net/NS/cei":country,
+                "http://www.monasterium.net/NS/cei":region,
+                "http://www.monasterium.net/NS/cei":settlement,
+                "http://www.monasterium.net/NS/cei":arch,
+                "http://www.monasterium.net/NS/cei":archFond,
+                "http://www.monasterium.net/NS/cei":idno,
+                "http://www.monasterium.net/NS/cei":provenance,
+                "http://www.monasterium.net/NS/cei":bibl,
+                "http://www.monasterium.net/NS/cei":msIdentifier,
+                "http://www.monasterium.net/NS/cei":archIdentifier,
+                "http://www.monasterium.net/NS/cei":institution,
+                "http://www.monasterium.net/NS/cei":repository,
+                "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
+                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
+                "http://www.monasterium.net/NS/cei":c, "http://www.monasterium.net/NS/cei":ptr,
+                "http://www.monasterium.net/NS/cei":note,
+                "http://www.monasterium.net/NS/cei":figure,
+                "http://www.monasterium.net/NS/cei":anchor, "http://www.monasterium.net/NS/cei":ref,
+                "http://www.monasterium.net/NS/cei":head, "http://www.monasterium.net/NS/cei":h1,
+                "http://www.monasterium.net/NS/cei":h2, "http://www.monasterium.net/NS/cei":p,
+                "http://www.monasterium.net/NS/cei":list,
+                "http://www.monasterium.net/NS/cei":foreign,
+                "http://www.monasterium.net/NS/cei":cit, "http://www.monasterium.net/NS/cei":quote,
+                "http://www.monasterium.net/NS/cei":div, "http://www.monasterium.net/NS/cei":w,
+                "http://www.monasterium.net/NS/cei":pc, "http://www.monasterium.net/NS/cei":space,
+                "http://www.monasterium.net/NS/cei":supplied,
+                "http://www.monasterium.net/NS/cei":lacunaStart,
+                "http://www.monasterium.net/NS/cei":lacunaEnd,
+                "http://www.monasterium.net/NS/cei":witStart,
+                "http://www.monasterium.net/NS/cei":witEnd,
+                "http://www.monasterium.net/NS/cei":witDetail,
+                "http://www.monasterium.net/NS/cei":sic, "http://www.monasterium.net/NS/cei":del,
+                "http://www.monasterium.net/NS/cei":app,
+                "http://www.monasterium.net/NS/cei":unclear}' is expected.</message>
+            <message level="Error" line="135" column="44">cvc-complex-type.2.4.a: Invalid content
+                was found starting with element 'cei:placeName'. One of
+                '{"http://www.monasterium.net/NS/cei":w, "http://www.monasterium.net/NS/cei":add,
+                "http://www.monasterium.net/NS/cei":app,
+                "http://www.monasterium.net/NS/cei":foreign,
+                "http://www.monasterium.net/NS/cei":num, "http://www.monasterium.net/NS/cei":sic,
+                "http://www.monasterium.net/NS/cei":space,
+                "http://www.monasterium.net/NS/cei":handShift,
+                "http://www.monasterium.net/NS/cei":del,
+                "http://www.monasterium.net/NS/cei":witStart,
+                "http://www.monasterium.net/NS/cei":witEnd,
+                "http://www.monasterium.net/NS/cei":witDetail,
+                "http://www.monasterium.net/NS/cei":surplus,
+                "http://www.monasterium.net/NS/cei":damage,
+                "http://www.monasterium.net/NS/cei":country,
+                "http://www.monasterium.net/NS/cei":region,
+                "http://www.monasterium.net/NS/cei":settlement,
+                "http://www.monasterium.net/NS/cei":arch,
+                "http://www.monasterium.net/NS/cei":archFond,
+                "http://www.monasterium.net/NS/cei":idno,
+                "http://www.monasterium.net/NS/cei":provenance,
+                "http://www.monasterium.net/NS/cei":bibl,
+                "http://www.monasterium.net/NS/cei":msIdentifier,
+                "http://www.monasterium.net/NS/cei":archIdentifier,
+                "http://www.monasterium.net/NS/cei":institution,
+                "http://www.monasterium.net/NS/cei":repository,
+                "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
+                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
+                "http://www.monasterium.net/NS/cei":c, "http://www.monasterium.net/NS/cei":ptr,
+                "http://www.monasterium.net/NS/cei":note,
+                "http://www.monasterium.net/NS/cei":figure,
+                "http://www.monasterium.net/NS/cei":anchor,
+                "http://www.monasterium.net/NS/cei":ref}' is expected.</message>
+            <message level="Error" line="174" column="73">cvc-complex-type.2.4.a: Invalid content
+                was found starting with element 'cei:add'. One of
+                '{"http://www.monasterium.net/NS/cei":persName,
+                "http://www.monasterium.net/NS/cei":rolename,
+                "http://www.monasterium.net/NS/cei":orgName,
+                "http://www.monasterium.net/NS/cei":placeName,
+                "http://www.monasterium.net/NS/cei":geogName,
+                "http://www.monasterium.net/NS/cei":index,
+                "http://www.monasterium.net/NS/cei":testis,
+                "http://www.monasterium.net/NS/cei":date,
+                "http://www.monasterium.net/NS/cei":dateRange,
+                "http://www.monasterium.net/NS/cei":num,
+                "http://www.monasterium.net/NS/cei":measure,
+                "http://www.monasterium.net/NS/cei":country,
+                "http://www.monasterium.net/NS/cei":region,
+                "http://www.monasterium.net/NS/cei":settlement,
+                "http://www.monasterium.net/NS/cei":arch,
+                "http://www.monasterium.net/NS/cei":archFond,
+                "http://www.monasterium.net/NS/cei":idno,
+                "http://www.monasterium.net/NS/cei":provenance,
+                "http://www.monasterium.net/NS/cei":bibl,
+                "http://www.monasterium.net/NS/cei":msIdentifier,
+                "http://www.monasterium.net/NS/cei":archIdentifier,
+                "http://www.monasterium.net/NS/cei":institution,
+                "http://www.monasterium.net/NS/cei":repository,
+                "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
+                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
+                "http://www.monasterium.net/NS/cei":c, "http://www.monasterium.net/NS/cei":ptr,
+                "http://www.monasterium.net/NS/cei":note,
+                "http://www.monasterium.net/NS/cei":figure,
+                "http://www.monasterium.net/NS/cei":anchor, "http://www.monasterium.net/NS/cei":ref,
+                "http://www.monasterium.net/NS/cei":head, "http://www.monasterium.net/NS/cei":h1,
+                "http://www.monasterium.net/NS/cei":h2, "http://www.monasterium.net/NS/cei":p,
+                "http://www.monasterium.net/NS/cei":list,
+                "http://www.monasterium.net/NS/cei":foreign,
+                "http://www.monasterium.net/NS/cei":cit, "http://www.monasterium.net/NS/cei":quote,
+                "http://www.monasterium.net/NS/cei":div, "http://www.monasterium.net/NS/cei":w,
+                "http://www.monasterium.net/NS/cei":pc, "http://www.monasterium.net/NS/cei":space,
+                "http://www.monasterium.net/NS/cei":supplied,
+                "http://www.monasterium.net/NS/cei":lacunaStart,
+                "http://www.monasterium.net/NS/cei":lacunaEnd,
+                "http://www.monasterium.net/NS/cei":witStart,
+                "http://www.monasterium.net/NS/cei":witEnd,
+                "http://www.monasterium.net/NS/cei":witDetail,
+                "http://www.monasterium.net/NS/cei":sic, "http://www.monasterium.net/NS/cei":del,
+                "http://www.monasterium.net/NS/cei":app,
+                "http://www.monasterium.net/NS/cei":unclear}' is expected.</message>
         </report>
     </validationResult>
     <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%202%20Tramutola.xml</charterUri>
+        <charterUri>/db/niklas/import/tramutola/out_Doc._21_Tramutola.xml</charterUri>
         <report>
             <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
+            <duration unit="msec">20</duration>
+            <message level="Error" line="22" column="55">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:quote'. One of
+                '{"http://www.monasterium.net/NS/cei":index,
+                "http://www.monasterium.net/NS/cei":foreign,
+                "http://www.monasterium.net/NS/cei":note,
+                "http://www.monasterium.net/NS/cei":placeName,
+                "http://www.monasterium.net/NS/cei":persName,
+                "http://www.monasterium.net/NS/cei":name,
+                "http://www.monasterium.net/NS/cei":orgName,
+                "http://www.monasterium.net/NS/cei":witStart,
+                "http://www.monasterium.net/NS/cei":witEnd,
+                "http://www.monasterium.net/NS/cei":witDetail,
+                "http://www.monasterium.net/NS/cei":lacunaStart,
+                "http://www.monasterium.net/NS/cei":lacunaEnd,
+                "http://www.monasterium.net/NS/cei":expan, "http://www.monasterium.net/NS/cei":add,
+                "http://www.monasterium.net/NS/cei":supplied,
+                "http://www.monasterium.net/NS/cei":del, "http://www.monasterium.net/NS/cei":corr,
+                "http://www.monasterium.net/NS/cei":space,
+                "http://www.monasterium.net/NS/cei":damage, "http://www.monasterium.net/NS/cei":c,
+                "http://www.monasterium.net/NS/cei":sic,
+                "http://www.monasterium.net/NS/cei":handShift,
+                "http://www.monasterium.net/NS/cei":unclear, "http://www.monasterium.net/NS/cei":w,
+                "http://www.monasterium.net/NS/cei":pc, "http://www.monasterium.net/NS/cei":hi,
+                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":lb,
+                "http://www.monasterium.net/NS/cei":sup, "http://www.monasterium.net/NS/cei":pict,
+                "http://www.monasterium.net/NS/cei":app}' is expected.</message>
         </report>
     </validationResult>
     <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%207%20Tramutola.xml</charterUri>
+        <charterUri>/db/niklas/import/tramutola/out_Doc._22_S.Arcangelo.xml</charterUri>
         <report>
             <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%209%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%203%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2016%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2018%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%208%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%204%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2015%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%206%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2013%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2011%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2012%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2017%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2014%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2021%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2019%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%2010%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>file:///home/niklas/Documents/uni/monasterium/import/tramutola/input/Doc.%201%20Tramutola.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <message level="Error" line="4431" column="114">s4s-elt-must-match.1: The content of
-                'date' must match (annotation?, (simpleType | complexType)?, (unique | key |
-                keyref)*)). A problem was found starting at: alternative.</message>
-            <message level="Error" line="549" column="168">s4s-elt-invalid-content.1: The content of
-                '#AnonType_bodytext' is invalid. Element 'assert' is invalid, misplaced, or occurs
-                too often.</message>
-            <message level="Error" line="776" column="235">s4s-elt-invalid-content.1: The content of
-                '#AnonType_issuedchDesc' is invalid. Element 'assert' is invalid, misplaced, or
-                occurs too often.</message>
-            <message level="Error" line="1" column="106">cvc-elt.1.a: Cannot find the declaration of
-                element 'atom:entry'.</message>
+            <duration unit="msec">20</duration>
+            <message level="Error" line="52" column="483">cvc-complex-type.2.4.a: Invalid content
+                was found starting with element 'cei:damage'. One of
+                '{"http://www.monasterium.net/NS/cei":persName,
+                "http://www.monasterium.net/NS/cei":rolename,
+                "http://www.monasterium.net/NS/cei":orgName,
+                "http://www.monasterium.net/NS/cei":placeName,
+                "http://www.monasterium.net/NS/cei":geogName,
+                "http://www.monasterium.net/NS/cei":index,
+                "http://www.monasterium.net/NS/cei":testis,
+                "http://www.monasterium.net/NS/cei":date,
+                "http://www.monasterium.net/NS/cei":dateRange,
+                "http://www.monasterium.net/NS/cei":num,
+                "http://www.monasterium.net/NS/cei":measure,
+                "http://www.monasterium.net/NS/cei":quote, "http://www.monasterium.net/NS/cei":cit,
+                "http://www.monasterium.net/NS/cei":foreign,
+                "http://www.monasterium.net/NS/cei":anchor, "http://www.monasterium.net/NS/cei":ref,
+                "http://www.monasterium.net/NS/cei":note,
+                "http://www.monasterium.net/NS/cei":archIdentifier,
+                "http://www.monasterium.net/NS/cei":msIdentifier,
+                "http://www.monasterium.net/NS/cei":bibl, "http://www.monasterium.net/NS/cei":lb,
+                "http://www.monasterium.net/NS/cei":a, "http://www.monasterium.net/NS/cei":hi,
+                "http://www.monasterium.net/NS/cei":c, "http://www.monasterium.net/NS/cei":sup,
+                "http://www.monasterium.net/NS/cei":scope}' is expected.</message>
         </report>
     </validationResult>
 </result>

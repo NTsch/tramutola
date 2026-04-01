@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>24</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Obligatio</cei:class>
+                    <cei:abstract>Davanti al giudice di Sant’arcangelo si era risolta una causa riguardo una casa con un forno che vedeva contrapposti il priore Daniele, priore di S. Maria di Orsoleo, e Brancaccio de Sillitto con la suocera Marotta e la moglie Norrisia, eredi di Giovanni de Palombara, con il quale la causa era iniziata. Al priore era stato riconosciuto il possesso del bene, ma era tenuto a pagare a Marotta mezzo augustale e a lasciare l’usufrutto della casa a Margherita de Palombaria. Le due parti si impegnano quindi a mantenere questi obblighi.</cei:abstract>
+                    <cei:issued>
+                        <cei:date>1272 marzo 24</cei:date>
+                        <cei:placeName>Pietrapertosa</cei:placeName>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>LVI 71</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition/>
+                            <cei:dimensions>mm 325x185</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Nicolaus</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum>Sul verso, mano coeva: «Carta de
+                            <cei:damage>.........</cei:damage> quam habet ecclesia
+                            <cei:damage>...</cei:damage>»; mano Venereo: «Concordia pro quadam domo in pertinentia terrę Sancti Arcangeli factam inter priorem ecclesię sancte Marię de Ursoleone et Pintacium de Sillito de eadem terra. In anno 1272», «In arca 62, n. 561»; mano secc. XVII-XVIII: «Terra Sancti Arcangeli»;  mano sec. XIX: «Arca LVI n° 71».
+                        </cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1947, pp. 99-100, n. 3.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl/>
+                        </cei:listBiblErw>
+                        <cei:p>La sottoscrizione del notaio Roberto non è autografa.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine Dei eterni amen.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno ab incarnatione eiusdem millesimo ducentesimo septuagesimo secundo, regnante 
+                            <cei:lb/>domno nostro
+                            <cei:persName reg="Carolus I rex Sicilie">Karolo</cei:persName> Dei gratia serenissimo rege Sicilie, ducatus Apulie, principatus Capue, Alme Urbis
+                            <cei:lb/>senatore et per sanctam Romanam ecclesiam in Tuscia vicario generali, Andegavie, Folcarqueri ac Provincie comite,
+                            <cei:lb/> regni eius anno septimo feliciter, amen; mense marcii, vicesimo quarto eiusdem, quintedecime indictionis,
+                        </cei:datatio>
+                        <cei:datatio>apud 
+                            <cei:placeName reg="Petraperciata">Pe<cei:lb/>tramperciatam</cei:placeName>.
+                        </cei:datatio>Nos 
+                        <cei:persName reg="Amerisius de Sipontina iud.">Amerisius de Sipontina</cei:persName> iudex, 
+                        <cei:persName reg="Nicolaus not.">Nicolaus</cei:persName> puplicus dicte terre notarius et subscripti testes de eadem
+                        <cei:lb/>terra ad hoc specialiter vocati et rogati, presenti puplico scripto testamur quod convenientibus coram nobis dopno 
+                        <cei:persName reg="Danielis Volturinus prior, rector et patronus eccl. S. Marie de Orsoleo">Da<cei:lb/>niele</cei:persName>, priore ecclesie 
+                        <cei:placeName reg="S. Marie Orsolei, eccl. Sancti Archangeli">sancte Marie de Ursuleone</cei:placeName>, et 
+                        <cei:persName reg="Prancacius de Sillicto">Prancacio de Sillicto</cei:persName>, habitatore 
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Arcangeli</cei:placeName> nomine et pro parte
+                        <cei:persName reg="Marotta">Marotte</cei:persName> socrus et
+                        <cei:persName reg="Norrisia">Norrisie</cei:persName> uxoris sue de questione cuiusdam domus et furni olim habita inter eos sententialiter termina<cei:lb/>ta per iudices dicte terre, de qua per eundem priorem fuerat provocatum, de communi voluntate ipsorum pro bono pacis
+                        <cei:lb/>ad huiusmodi transactionem et concordiam devenerunt, videlicet quod idem
+                        <cei:persName reg="Prancacius de Sillicto">Prancacius</cei:persName> nomine et pro parte dictorum socrus et
+                        <cei:lb/>uxoris sue, heredum quondam 
+                        <cei:persName reg="Iohannes de Palombaria, qd.">Iohannis de Palombaria</cei:persName> cum quo fuerat questio,
+                        <cei:dispositio>obligavit se</cei:dispositio> coram nobis <cei:corr sic="/A/ sopll/epniter">solle<cei:lb/>pniter</cei:corr> per guadiam in manus dicti prioris restituere et restitui facere sibi ad sui requisitionem nomine ipsius ecclesie
+                        <cei:lb/>possessionem et dominium predicte domus cum furno unde fuerat questio inter eos, nullo eisdem mulieribus vel eorum
+                        <cei:lb/>heredibus super possessionem vel dominium dicte domus de cetero iure servato. Ita tamen quod idem prior teneatur solvere
+                        <cei:lb/>dicte
+                        <cei:persName reg="Marotta">Marotte</cei:persName> medium 
+                        <cei:sic>agustalem</cei:sic> et dimictere
+                        <cei:persName reg="Margarita de Palombaria">Margaritam de Palumbaria</cei:persName> permanere donec vixerit in ipsa do<cei:lb/>mo et exhibere sibi pro alimento thuminos fr<cei:expan>ument</cei:expan>i duodecim annuatim, de predictis autem omnibus et singulis atten<cei:lb/>dentis et fieri faciendis a predictis mulieribus et facienda inde fieri cautela ydonea pro dicta ecclesia promi<cei:lb/>sit ipse
+                        <cei:persName reg="Prancacius de Sillicto">Prancacius</cei:persName> et obligavit se, heredes et bona sua per eandem guadiam dicto priori sub pena quattuor unciarum
+                        <cei:lb/>auri, medietate solvenda dominacioni
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Arcangeli</cei:placeName> et altera parti lese, et defectu fideiussorie caucionis
+                        <cei:lb/>ad maiorem cautelam idem 
+                        <cei:persName reg="Prancacius de Sillicto">Prancacius</cei:persName> corporale super sancta Dei evangelia coram nobis ipsi priori prestitit
+                        <cei:lb/>iuramentum omnia et singula sicut preleguntur attendi et compleri facere ab ipsis mulieribus etiam invitis sub
+                        <cei:lb/>pena predicta. Ad huius autem rei geste memoriam et dicti prioris ac ecclesie
+                        <cei:corr type="/Ripetuto/">sue</cei:corr> cautelam factum
+                        <cei:lb/>est inde presens scriptum per manus mei qui supra 
+                        <cei:persName reg="Nicolaus not.">Nicolai</cei:persName> puplici dicte terre notarii, mei qui supra iudicis
+                        <cei:lb/>et subscriptorum testium subsignationibus roboratum. In quos predictos iudicem et notarium cum sirentd predicti trans<cei:lb/>igentes suos non esse tamquam proprios ex certa conscientia consenserunt.
+                        <cei:setPhrase type="Declaratio notarii">Quos scripsi ego idem notarius qui rogatus interfui et meo solito signo signavi.</cei:setPhrase>
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Signum crucis manus proprie iudicis 
+                            <cei:persName reg="Amerisius de Sipontina iud.">Amerisii</cei:persName> qui supra.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego notarius 
+                            <cei:persName reg="Robertus de Amerisio not.">Robbertus de Amerisio</cei:persName> testis sum.
+                        </cei:subscriptio>
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie 
+                            <cei:persName reg="Iohannes de Astillo">Iohannis de Astil<cei:expan>l</cei:expan>o</cei:persName> qui interfuit.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie 
+                            <cei:persName reg="Rainone de Clara">Raynonis de Clara</cei:persName> qui interfuit.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie 
+                            <cei:persName reg="Iohannes de Confideo">Io<cei:expan>hannis</cei:expan> de Confideo</cei:persName> qui interfuit.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie 
+                            <cei:persName reg="Rogerius Ferrarius">Rogerii Ferrarii</cei:persName> qui interfuit.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie 
+                            <cei:persName reg="Nicolaus Corrigiarius">Nicolai Corrigiarii</cei:persName> qui interfuit.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie 
+                            <cei:persName reg="Goffridus de Fracta">Goffridi de Fracta</cei:persName> qui interfuit.
+                        </cei:subscriptio>.
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+
+
+
+
+
+
+

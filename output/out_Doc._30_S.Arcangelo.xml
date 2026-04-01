@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>30</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Donatio, concessio et obligatio</cei:class>
+                    <cei:abstract>Il notaio Guglielmo Greco come ringraziamento dalla liberazione dal
+                        <cei:quote>supplicium carceris</cei:quote> dona alla chiesa di S. Maria di Orsoleo, rappresentata dal suo procuratore, alcune sue terre situate in località
+                        <cei:quote>Carreto</cei:quote>.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date value="12860199"/>
+                        <cei:placeName>Sant'Arcangelo</cei:placeName>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>LVIII 68</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p/>
+                            </cei:decoDesc>
+                            <cei:condition/>
+                            <cei:dimensions>mm 365x190</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Petrus</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota/>
+                        <cei:rubrum>Sul verso, mano coeva: «Carta de terris quas dedit notarius Guillelmus Grecus ecclesie sancte Marie de Ursoleone de Sanctum Archangelum»; mano Venereo: «Oblatio Notarii Guilielmi Gręci de terra in ecclesia sanctę Marię de Ursoleone, pertin<cei:expan>entiis</cei:expan> montis S. Archangeli de Cilento. Anno 1286», «n° 482» riscritto una seconda volta; mano sec. XVI: «In Cilento»; mano secc. XVII-XVIII: «In arca 62, n. 482»; mano sec. XIX: «Arca LVIII n° 68».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1947, pp. 109-111, n. 9.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl/>
+                        </cei:listBiblErw>
+                        <cei:p>Le sottoscrizioni in prima persona sono tutte autografe. La data non è stata calcolata con lo stile fiorentino dell’incarnazione; sembra decisamente più probabile che sia stato adoperato lo stile bizantino, piuttosto che quello pisano dell’incarnazione (non altrimenti attestato né in Basilicata, né nella vicina Calabria, v. PRATESI 1958, p. LII).</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno ab incarnacione eiusdem millesimo ducentesimo octogesimo sexto, regnantibus
+                            <cei:lb/>venerabili patre domno
+                            <cei:persName reg="Gerardus Blancus eps. Sabine">Gerardo</cei:persName>, Dei gracia Sabbaniense episcopo et apostolice sedis ligato et illustrissimo viro domno
+                            <cei:lb/><cei:persName reg="Robertus II comes Atrabatensis">Roberto</cei:persName> eggregio comite Atrabatense regni Sicilie balio per sanctam Romanam ecclesiam constituto pro pa<cei:lb/>rte heredum quondam serenissimi domni regis
+                            <cei:persName reg="Carolus I rex Sicilie">Karoli</cei:persName>, eorum dominii anno primo,
+                        </cei:datatio>feliciter, amen;
+                        <cei:datatio type="Datatio topica">apud
+                            <cei:placeName reg="Sanctum Archangelum">Sanctum Arcangelum</cei:placeName>
+                        </cei:datatio>
+                        <cei:lb/><cei:datatio type="Datatio cronica">mense ianuario, quartedecime indictionis.</cei:datatio>
+                        <cei:intitulatio>Ego notarius 
+                            <cei:persName reg="Willelmus Grecus not.">Guillelmus Grecus</cei:persName>
+                        </cei:intitulatio>habitator ipsius terre
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName>, conside<cei:lb/>rans primitus et attendens contentum largicionis et gracie quam
+                        <cei:corr type="/Segue/ p(ro) /dilavato/">mihi</cei:corr> deitatis potencia propitius faciente propensa
+                        <cei:lb/>virtus et diucius cognita
+                        <cei:placeName reg="S. Marie Orsolei, eccl. Sancti Archangeli">beate Marie de Ursoleone</cei:placeName> visibiliter annuit et hostendit meipsumque liberans subpplicio car<cei:lb/>ceris ubi hostiliter detinebar, in presencia
+                        <cei:persName reg="Iacob de sire Goffrido">Iacob de sire Goffrido</cei:persName> iudicis eiusdem terre
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName>,
+                        <cei:persName reg="Petrus de notario Iohanne not.">Petri de notario Io<cei:lb/>hanne</cei:persName> puplici dicte terre notarii et testium subscriptorum de eadem terra ad hoc specialiter vocatorum, voluntarie recognito ipsius
+                        <cei:lb/>beneficio gracie quod mihi eiusdem beate Marie sanctitas evidendissime demonstravit et ad mei meorumque parentum rem<cei:lb/>edium peccatorum
+                        <cei:dispositio>do, concedo perfustemque trado</cei:dispositio> ecclesie dicte
+                        <cei:placeName reg="S. Marie Orsolei, eccl. Sancti Archangeli">sancte Marie de Ursoleone</cei:placeName> secum adstante et
+                        <cei:lb/>recipiente dopno
+                        <cei:persName reg="Bonicius f. qd. Roberti iud., prior, patronus et rector eccl. S. Marie de Ursoleone">Bonicio de iudice Roberto</cei:persName> de
+                        <cei:placeName reg="Sanctum Archangelum">Sancto Archangelo</cei:placeName> procuratore ipsius ecclesie quandam quantitatem terrarum
+                        <cei:lb/>mearum quas habeo in contrata
+                        <cei:placeName reg="Carreti (contrata)">Carriti</cei:placeName>iuxtra terras filiorum quondam
+                        <cei:persName reg="Willelmus Ganbuto (f. qd.)">Guillelmi Ganbuti</cei:persName>. Quarum terrarum eidem ecclesie
+                        <cei:lb/>concessarum isti sunt fines: primus videlicet via puplica pectoris
+                        <cei:placeName reg="Carreti">Carriti</cei:placeName>predicti sicut incipit a capite ipsius pecto<cei:lb/>ris et desendit ad terram iudicis
+                        <cei:persName reg="Simon iud.">Symonis</cei:persName> et deinde assendit per
+                        <cei:corr type="-p- /corr. da/ -b-">rupem</cei:corr> usque ad setam qua itur ad predictam ecclesiam et dat
+                        <cei:lb/>ad terram ipsius ecclesie que fuit dopni
+                        <cei:persName reg="Iohannes de Fabro">Iohannis de Fabro</cei:persName>; secundus finis est limes ipsius terre ecclesie et dat ad li<cei:lb/>mitem terre filiarum quondam
+                        <cei:persName reg="Iohannes de Laudino (f. qd. Iohannis de Laudino)">Iohannis de Laudino</cei:persName> et desendit ad limitem terre filiarum quondam
+                        <cei:persName reg="Iumarca (f. Iumarce)">Iumarce</cei:persName> et
+                        <cei:persName reg="Marotta de Beniabin">Marocte<cei:lb/> de Beniabin</cei:persName> et dat ad limitem vinee
+                        <cei:persName reg="Marotta f. qd. Mathei Greci">Marocte</cei:persName> filie quondam
+                        <cei:persName reg="Matheus Grecus, /v./ Marotta f. qd. Mathei Greci">Mathei Greci</cei:persName>; tercius finis est limes eiusdem
+                        <cei:lb/>vinee vinealis
+                        <cei:persName reg="Iohannes Pantanarius">Iohannis Pantanari</cei:persName> et terre
+                        <cei:persName reg="Iohannes">Iohannis</cei:persName> et fratrum filiorum quondam
+                        <cei:persName reg="Willelmus Ganbuto (f. qd.)">Guillelmi Ganbuti</cei:persName>; quartus vero finis
+                        <cei:lb/>est medius limes terre filie quondam
+                        <cei:persName reg="Nicolaus de Mauro (f. qd.)">Nicolai de Mauro</cei:persName> et dat ad viam predicte ecclesie et reddit in capite
+                        <cei:lb/>dicti pectoris
+                        <cei:placeName reg="Carreti">Carriti</cei:placeName> unde primus finis inchoatur. Infra quos vero fines integre designatas terras pred<cei:lb/>ictas eidem ecclesie voluntarie dedi, concexi perfustemque tradidi cum introytibus et exitibus suis et cum omnibus
+                        <cei:lb/>infra ipsas habitis et contentis de quibus nemini partem aliquam reservavi fideiussoremque ponens
+                        <cei:lb/>eidem ecclesie deinde notarium
+                        <cei:persName reg="Daniele de Vulturino">Daniele de Vulturino</cei:persName> concivem meum. Tali quidem tenore, ut a modo et
+                        <cei:lb/>omni futuro predictas terras eadem ecclesia secure habeat, teneat et possideat et ex eis vel in eis fieri faciat
+                        <cei:lb/>quicquid voluerit sine mea meorumque heredum contrarietate ac requisicione omnium hominum ipsam inde per legem
+                        <cei:lb/>querentium. Quod si taliter ego vel mei heredes eidem ecclesie non adimpleverimus et hanc meam donaci<cei:lb/>onem et concexionem ipsarum terrarum sibi non defensaverimus quo per causacionem vel per legem quolibet excogitato in<cei:lb/>genio exinde secum venerimus, obligo me meosque heredes componere eidem ecclesie augustales au<cei:lb/>reos decem totidemque in puplico et in antea defendamus ipsas eidem ecclesie nobis inviti districto fide<cei:lb/>iubxore predicto qui eidem ecclesie licenciam tribuit pignerandi se suosque heredes per omnes res, pignera eorum licita et inlicita sine calupnia et appellacione sicut et ego et mea meorumque heredum
+                        <cei:lb/>donec que preleguntur omnia compleamus inviti. Hoc autem breve donacionis, concexi<cei:lb/>onis et obligacionis fieri rogavi per manus predicti
+                        <cei:persName reg="Petrus de notario Iohanne not.">Petri</cei:persName> dicte terre
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName> puplici notarii signo suo
+                        <cei:lb/>subscripctione predicti iudicis et subscriptorum testium subscripctionibus roboratum. 
+                        <cei:setPhrase type="Declaratio notarii">Quod scrip<cei:lb/>si ego predictus
+                            <cei:persName>Petrus</cei:persName> terre
+                            <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName> puplicus notarius qui predictis interfui et meo so<cei:lb/>lito signo signavi.
+                        </cei:setPhrase> 
+                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego
+                            <cei:persName reg="Iacob de sire Goffrido">Iacob d<cei:expan>e</cei:expan> sir<cei:expan>e</cei:expan> Goffrid<cei:expan>o</cei:expan></cei:persName> iudex
+                            <cei:placeName reg="Sanctum Archangelum">S<cei:expan>an</cei:expan>c<cei:expan>t</cei:expan>i Archa<cei:expan>n</cei:expan>g<cei:expan>e</cei:expan>li</cei:placeName> q<cei:expan>ui</cei:expan> sup<cei:expan>ra</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Simon de iudice Iacob">Simon d<cei:expan>e</cei:expan> iudice Iacob</cei:persName> testis sum.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego mag<cei:expan>iste</cei:expan>r
+                            <cei:persName reg="Corradus medicus fisicus">C<cei:expan>o</cei:expan>rrad<cei:expan>us</cei:expan></cei:persName> medic<cei:expan>us</cei:expan> fisic<cei:expan>us</cei:expan> p<cei:expan>re</cei:expan>d<cei:expan>ic</cei:expan>ta testor.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie 
+                            <cei:persName reg="... Buccillerii"><cei:damage>......</cei:damage> Buccill<cei:expan>e</cei:expan>rii</cei:persName> qui vocatus et rogatus predictis interfuit.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie magistri
+                            <cei:persName reg="Leonardus">Leonardi</cei:persName> qui rogatus et vocatus interfuit.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie
+                            <cei:persName reg="Robertus de sire Goffrido">Roberti de <cei:damage>sire</cei:damage> Goffridus</cei:persName> qui predictis interfuit.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName/>
+                <cei:placeName/>
+                <cei:index/>
+                <cei:divNotes>
+                    <cei:note/>
+                </cei:divNotes>
+                <cei:class/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

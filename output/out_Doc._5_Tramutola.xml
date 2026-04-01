@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>5</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Concessio</cei:class>
+                    <cei:abstract>Giovanni II, vescovo di Grumento nella sede di Marsico, accoglie le richieste di diversi membri del clero di Marsico e dona la chiesa di S. Pietro di Tramutola con tutti i suoi beni a Falcone, abate del monastero di Cava, rappresentato dal marsicano Giovanni, monaco e cappellano cavense, in cambio di un censo annuo che consiste in una libbra di cera, una libbra di incenso e un maiale, da pagare nel giorno di Natale.</cei:abstract>
+                    <cei:issued>
+                        <cei:date value="11440599"/>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>G 44</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p/>
+                            </cei:decoDesc>
+                            <cei:condition>Alla riga 8 è presente una macchia bruna.</cei:condition>
+                            <cei:dimensions>mm 560x240 con la "plica" (mm 63) distesa</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Iaspidus</cei:persName>
+                            </cei:notariusDesc>
+                            <cei:sealDesc>Sigillum impressum deperditum</cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota/>
+                        <cei:rubrum>Sul verso, mano Venereo: «Diploma Iohannis episcopi Grumentani et Marsicani de donatione et exemptione ecclesiae sancti Petri de Tramutulo cum omnibus possessionibus ac pertinentiis suis, domibus, terris, vineis, arboribus fructiferis et infructiferis, montibus, silvis, aquis et aliis cum omnimoda iurisdictione et potestate. Anno 1144, maii», «Armario I°, e n° IIII°»; mani sec. XIX: «Armario G, n° 22», «Armario G 44».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Racioppi, p. 157, n. 6 (parziale).</cei:bibl>
+                            <cei:bibl>Mattei Cerasoli 1943, pp. 41-43, n. 5.</cei:bibl>
+                            <cei:bibl>Palestina, pp. 35-36, n. 18.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Starace, p. 15.</cei:bibl>
+                            <cei:bibl>Di Meo, X, p. 132.</cei:bibl>
+                            <cei:bibl>Carabellese pp. 47-48, 157-158.</cei:bibl>
+                            <cei:bibl>P. F. Kehr 1935, pp. 373-374.</cei:bibl> 
+                            <cei:bibl>Houben 1996, p. 127.</cei:bibl> 
+                            <cei:bibl>Fonseca, p. 298.</cei:bibl> 
+                            <cei:bibl>Houben 2006, p. 374, 379.</cei:bibl> 
+                            <cei:bibl>Visentin 2014, p. 27.</cei:bibl>
+                            <cei:bibl>Visentin 2015, p. 129.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>La scrittura di Iaspido (che sottoscrive nei docc. 5-10, 15, 17, 19 come giudice) è una minuscola con diversi elementi della beneventana (le legature tipiche, il 
+                            <cei:quote>3-shaped stroke</cei:quote>, il tratteggio di 
+                            <cei:quote>t</cei:quote> ed 
+                            <cei:quote>e</cei:quote>), mentre invece adopera sempre la 
+                            <cei:quote>a</cei:quote> carolina (con una sola eccezione di 
+                            <cei:quote>hac</cei:quote> nella 
+                            <cei:quote>narratio</cei:quote>, con il tratteggio della beneventana). Una caratteristica della scrittura di Iaspido è l’ampia legatura 
+                            <cei:quote>sp</cei:quote>, presente anche nelle sue sottoscrizioni; l’estremità superiore delle aste di 
+                            <cei:quote>b</cei:quote>, 
+                            <cei:quote>d</cei:quote>, 
+                            <cei:quote>h</cei:quote>, 
+                            <cei:quote>i</cei:quote> alta e 
+                            <cei:quote>l</cei:quote> è decorata con un piccolo trattino che crea una sorta di forcellatura. La sottoscrizione di Giovanni presenta un’alternanza tra lettere sovramodulate e lettere più piccole; quelle di modulo maggiore sono decorate da trattini, svolazzi, e allargamenti ‘a spatola’ delle estremità. La mano che l’ha tracciata è la stessa di quella del doc. 17 (e di una donazione del 1134: Archivio del Monumento nazionale di Grottaferrata, Fondo Pergamene, 2), e ciò fa ipotizzare che sia interamente autografa. Le altre sottoscrizioni sono tutte autografe; quelle di Stefano, Ildemanno (notaio nei docc. 1, 4, 9, 11, 12 e giudice nei docc. 6, 7, 8, 13-15), Guglielmo e Vito sono in minuscola normanna, mentre hanno caratteristiche della beneventana (uso delle legature e tratteggio delle lettere) quelle di Riccardo (giudice dei docc. 2, 4, 6, 8, 10-14), Ursino, Pietro e Stefano, il quale però oscilla nel tratteggio di 
+                            <cei:quote>a</cei:quote>, a volte carolina e a volte beneventana. La resa dell’abbreviazione di 
+                            <cei:quote>archid(ia)c(onus)</cei:quote> nella sottoscrizione di Riccardo è la stessa di 
+                            <cei:quote>iud(ex)</cei:quote> nelle sue sottoscrizioni negli altri documenti. Il sigillo era stato impresso in modo da mantenere chiusa la 
+                            <cei:quote>pica</cei:quote>. Dopo la perdita del sigillo, un intervento seriore ha inserito nel foro romboidale superiore è stata inserita una cordicella di fili bianchi e verdi, uniti alla pergamena da una cucitura con un filo rosso. La cordicella è del tutto simile a quella aggiunta nel doc. 21 (ma anche AC, A 9), facendo ipotizzare che le due aggiunte siano coeve. L’alone bruno che rimane ha un diametro di circa mm 35, in cui è inclusa una corona circolare (spessa circa mm 5) che verosimilmente corrisponde alla cera espansa.
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio>
+                        <cei:arenga>Sicut iniusta poscentibus nullus est tribuendus effectus, ita legitima desiderantibus 
+                            <cei:lb/>non est differenda petitjo, 
+                        </cei:arenga>quapropter nostris clericis, scilicet domno 
+                        <cei:persName reg="Riccardus archidiaconus">Riccardo</cei:persName> archidiacono nostro et domno 
+                        <cei:lb/><cei:persName reg="Ursinus arch.pbr.">Ursino</cei:persName> nostro archipresbitero et domno 
+                        <cei:persName reg="Guillelmus sacerdos">Guilielmo</cei:persName> et domno 
+                        <cei:persName reg="Vitus pbr.">Vito</cei:persName> et ceteris nos rogantibus quo domum aliquam in terra
+                        <cei:lb/>nostre dioceseos in sancto cenobio 
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis de Cava </cei:placeName> que sita est in loco 
+                        <cei:placeName reg="Mitilianum">Mitiliani</cei:placeName> in qua domnus
+                        <cei:persName reg="Falcus abbas eccl. Ss. Trinitatis Cave">Falco</cei:persName> nunc 
+                        <cei:sic>abas</cei:sic>
+                        <cei:lb/>preest, concederemus ut fratres eiusdem sancti predicti cenobiy ex hac transeuntes seu redeuntes in illa haberent hospitjum, 
+                        <cei:lb/><cei:intitulatio>nos
+                            <cei:persName reg="Iohannes II eps. Marsici sedis Grumentane">Iohannes</cei:persName>, gratja Dei
+                            <cei:placeName reg="Grumentum">Grumentane</cei:placeName> sedis episcopus,
+                        </cei:intitulatio> illorum oratjonibus annuentes una cum ipsis predictis
+                        <cei:dispositio>concedimus</cei:dispositio> ecclesie
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinita<cei:lb/>tis de Cava</cei:placeName> nostrorum predecessorum animarum redemtjone et anime nostre nostrorumque posterorum remediys animarum ecclesiam
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri <cei:lb/>Tramutule</cei:placeName> cum omnibus tenutis suis et possessionibus, casis, videlicet vineis, terris, arboribus fructiferis et infructiferis, mon<cei:lb/>tibus, silvis, aquis et cum stabilibus et mobilibus omnibus pertinentibus sibi ut a modo in antea sit in potestate domni 
+                        <cei:persName reg="Falcus abbas eccl. Ss. Trinitatis Cave">Falconis</cei:persName> eiusdem
+                        <cei:lb/>sancte predicte ecclesie venerabilis abbatis et successorum suorum eam regere, gubernare et ordinare et quicquid ad eorum libitum
+                        <cei:lb/>placuerit faciendi ex ea sine nostra seu successorum nostrorum contrarietate. Eo tenore, videlicet ut per unumquemque 
+                        <cei:lb/>annum in festibitate natalis Domini censum ab eis nostre matri ecclesie episcopiy 
+                        <cei:placeName reg="Marsicum">Marsicy</cei:placeName> solvantur libra una cere et libra 
+                        <cei:lb/>una incensi et porcus unus et dum fuerit nobis opus bestie nostre et successorum nostrorum atque voluntas nostri ibidem recep
+                        <cei:lb/>tentur. Et ut omni futuro tempore hec nostra concessio remotjone qualibet vel 
+                        <cei:corr type="/segue la rasura di una lettera/">refragatjone</cei:corr> nostri seu successorum nostrorum vel 
+                        <cei:lb/>cuiuslibet hominis secura permaneat eidem sancte predicte ecclesie cum ecclesie nostri episcopiy advocato 
+                        <cei:persName reg="Rogerius">Rogerio</cei:persName> baculi traditjone legali 
+                        <cei:lb/>hoc firmamus edicto, manibus domni 
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohannis</cei:persName> 
+                        <cei:placeName reg="Marsicum">Marsicy</cei:placeName> eiusdem ecclesie 
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis</cei:placeName> monachi et cappellani eiusdem domni 
+                        <cei:lb/><cei:persName reg="Falcus abbas eccl. Ss. Trinitatis Cave">Falconis</cei:persName> predicti sancti cenobiy venerandi abbatis recepta cum tunc suo advocato
+                        <cei:persName reg="Guillelmus f. Gualterii">Guilielmo</cei:persName>
+                        <cei:persName reg="Gualterius, /v./ Guillelmus f. Gualterii">Gualteriy</cei:persName> filio
+                        <cei:lb/>de civitate
+                        <cei:placeName reg="Marsicum">Marsicy</cei:placeName>;
+                        <cei:sanctio>quicumque interea huius nostre concessionis traditjonis refragator seu temerator extiterit 
+                            <cei:lb/>adversarius excomunicationis vinculo se sciat esse plectendum nisi resipuerit; observator autem benedictjonis 
+                            <cei:lb/>divine gratja perfruatur.
+                        </cei:sanctio>Hanc itaque cartulam precepimus 
+                        <cei:persName reg="Iaspidus not. et iud.">Iaspido</cei:persName> notario scribendam nostroque sigillo ad ceram bullari, 
+                        <cei:lb/>signumque sancte et 
+                        <cei:corr type="/corr. da/ vivifece /con la prima/ -e- /inchiostrata e la/ -i- /agg. nell'interl./">vivifice</cei:corr> crucis nostra propria manu subscripsimus. 
+                        <cei:datatio type="Datatio cronica">Anno dominice incarnatjonis millesimo centesimo 
+                            <cei:lb/>quadragesimo quarto, mense madio, indictjone septima.
+                        </cei:datatio>
+                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio episcopi">+ Ego 
+                            <cei:persName reg="Iohannes II eps. Marsici sedis Grumentane">Ioh<cei:expan>anne</cei:expan>s</cei:persName> 
+                            <cei:placeName reg="Marsicum">Marsicanus</cei:placeName> ep<cei:expan>iscopu</cei:expan>s q<cei:expan>ui</cei:expan> s<cei:expan>upra</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Riccardus iud. et archidiaconus">Riccardus</cei:persName> archid<cei:expan>ia</cei:expan>c<cei:expan>onus</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Ursinus arch.pbr.">Ursinus</cei:persName> archip<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Stefanus diacoconus">Stefanus</cei:persName> diaconus s<cei:expan>an</cei:expan>c<cei:expan>te</cei:expan> 
+                            <cei:placeName reg="Marsicum">Marsicane</cei:placeName> eccl<cei:expan>esi</cei:expan>e.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Ildemannus not., iud. et diaconus">Ild<cei:expan>e</cei:expan>mann<cei:expan>us</cei:expan></cei:persName> diaco<cei:expan>nu</cei:expan>s.
+                        </cei:subscriptio>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Guillelmus sacerdos">Guilielmus</cei:persName> sacerdos.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Vitus pbr.">Vitus</cei:persName> p<cei:expan>resbite</cei:expan>r canonicus.
+                        </cei:subscriptio>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Petrus pbr. et paramonarius">Petrus</cei:persName> p<cei:expan>res</cei:expan>b<cei:expan>ite</cei:expan>r et paramonarius.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName/>
+                <cei:placeName/>
+                <cei:index/>
+                <cei:divNotes>
+                    <cei:note/>
+                </cei:divNotes>
+                <cei:class/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

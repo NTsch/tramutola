@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>25</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Renunciatio</cei:class>
+                    <cei:abstract>Marotta, moglie del fu Giovanni de Palombaria, e altri parenti del defunto Giovanni de Palombara rinunciano ad una casa con un forno situata presso 
+                        <cei:quote>Penne</cei:quote> in favore di Daniele,
+                        <cei:quote>rector</cei:quote> della chiesa di S. Maria di Ursoleone, dietro il pagamento di mezzo augustale.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date>1272 maggio</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>LVI 76</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition>Nella parte inferiore l’inchiostro è in parte sbiadito.</cei:condition>
+                            <cei:dimensions>mm 285x170</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Laudisio</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum>Sul verso, mano sec. XV: «De muro rupto in Apulia»; mano secc. XV-XVI: «Instromento pro sancta Maria de Ursoleone in Calabria»; mano Venereo: «Renunciatio et cessio ommnium iurium et actionum quas habebat in possessione cuiusdam domus cum furno in terra Sancti Archangeli in vicinio Pennę Marotta quam Iohannes de Palombaria et Nurrisia eius filia, uxor Brancatii Sillitto, ab iis facta domno Daniele rectori ecclesię S. Marię, cum quo predicta ecclesia questionem habebat recipiendo ab eo dimidium augustale. Anno 1272», «Arca 57, n. 5»; mani sec. XIX: «Arca L, n° 51», «Arca LVI n. 76».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1947, pp. 101-102, n. 4.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl/>
+                        </cei:listBiblErw>
+                        <cei:p>Le due sottoscrizioni sono entrambe autografe; quella di Guglielmo è stata scritta a distanza (mm 50) da quella precedente.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno ab incarnacione eiusdem millesimo ducentesimo septuagesimo secundo, regnante
+                            <cei:lb/>domno nostro rege 
+                            <cei:persName reg="Carolus I rex Sicilie">Karolo</cei:persName>, Dei gracia invictissimo rege Sicilie, ducatus Apulie, principatus Capue, Andaga<cei:lb/>vie, Provincie ac Forcarclerii comite, Alme Urbis senatore et per sanctam Romanam ecclesiam in Tuscia vicario ge<cei:lb/>nerali, regni eius anno septimo feliciter amen; mense madii quintedecime indictionis.
+                        </cei:datatio>In presencia magistri 
+                        <cei:persName reg="Iohannes iud et medicus">Iohannis </cei:persName> me<cei:lb/>dicus, iudicis 
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName>, 
+                        <cei:persName reg="Laudisius not.">Laudisii</cei:persName> puplici eiusdem terre notarii et testium subscriptorum ad hoc specialiter vocatorum
+                        <cei:lb/>et rogatorum,
+                        <cei:intitulatio>nos 
+                            <cei:persName reg="Marotta">Marocta</cei:persName>, uxor quondam 
+                            <cei:persName reg="Iohannes de Palombaria">Iohannis de Palumbaria</cei:persName>, mater quondam 
+                            <cei:persName reg="Iohannes de Palombaria">Iohannis de Palumbaria</cei:persName> et 
+                            <cei:persName reg="Nurrisia">Nurrisie</cei:persName> 
+                            <cei:lb/>uxor 
+                            <cei:persName reg="Prancacius de Sillicto">Brancacii de Sillicto</cei:persName>, et eadem 
+                            <cei:persName reg="Nurrisia">Nurrisia</cei:persName>, soror et heres predicti 
+                            <cei:persName reg="Iohannes de Palombaria">Iohannis de Palumbaria</cei:persName>,
+                        </cei:intitulatio>presenti scripto puplico de<cei:lb/>claramus quod auctoritate nobis predicto
+                        <cei:persName reg="Prancacius de Sillicto">Brancacio</cei:persName> dato nobis mundualdo et procuratore ad contractum presentem omni
+                        <cei:lb/>debita iuris sollempnitate adhibita, non vi, non dolo vel metu cohacte, set spontanea volumtate 
+                        <cei:dispositio>re<cei:lb/>nunciamus et cedimus</cei:dispositio> omne ius, actionem et exceptionem quod et quas habebamus in possessione, dominio vel quasi cuiusdam
+                        <cei:lb/>domus cum furno scite in terra 
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName> in vicinio 
+                        <cei:placeName reg="Penne">Pen<cei:expan>n</cei:expan>e</cei:placeName> infra subscriptos fines tibi dompno 
+                        <cei:persName reg="Danielis Volturinus prior, rector et patronus eccl. S. Marie de Orsoleo">Da<cei:lb/>nieli</cei:persName>, rectori ecclesie 
+                        <cei:placeName reg="S. Marie Orsolei, eccl. Sancti Archangeli">sancte Marie de Ursuleone</cei:placeName>, nomine eiusdem ecclesie recipienti, transferentes in eandem
+                        <cei:lb/>ecclesiam possessionem predicte domus de qua fuerat questio inter te predictum rectorem nomine dicte ecclesie et dictum
+                        <cei:persName reg="Iohannes de Palombaria">Iohannem <cei:lb/> de Palumbaria</cei:persName> et pro predictis renunciacione et exceptione, cessione et translacione possessionis predicte, recepto a te predicto
+                        <cei:lb/>dompno
+                        <cei:persName reg="Danielis Volturinus prior, rector et patronus eccl. S. Marie de Orsoleo">Daniele</cei:persName> dimidio augustale precio inter nos diffinito. Ad predicte ecclesie et tui maiorem cautelam guadiam
+                        <cei:lb/>tibi nomine dicte ecclesie dedimus, fideiubsorem tibi posuimus
+                        <cei:persName reg="Petrus de Alberada">Petrum de Alb<cei:expan>er</cei:expan>ada</cei:persName> de eadem terra 
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName>;
+                        <cei:lb/>numquam contra predicta omnia et singula de iure vel de facto per nos vel alios venire debere, sed omnia inviolata servare.
+                        <cei:lb/>Quod si forte contra predicta venire te<cei:expan>m</cei:expan>taverimus vel dictam ecclesiam exinde inquietare vel molestare presumpserimus quolibet modo
+                        <cei:lb/>sive ingenio, obligamus nos nostrosque heredes componere eidem ecclesie nomine pene augustales aureos decem totidemque in puplico
+                        <cei:lb/>compellendo proinde fideiussore predicto per omnia bona sua licita et illicita donec que prelecta sunt integre acten<cei:lb/>dentur nobis eciam contradicentibus vel invitis. Fines vero predicte domus sunt hii: primus finis est trasitus vicinorum; se<cei:lb/>cundus finis est quoddam casilis
+                        <cei:persName reg="Gemma f. Leonis de Meralere">Gemme</cei:persName> filie
+                        <cei:persName reg="Leo de Meralere, /v./ Gemma f. Leonis de Meralere">Leonis de Meral<cei:expan>e</cei:expan>r<cei:expan>e</cei:expan></cei:persName>; tercius finis est timpa que est subtus domus dompni
+                        <cei:lb/><cei:persName reg="Boemundus">Boemundi</cei:persName> que fuit quondam
+                        <cei:persName reg="Nicolaus Grecus">Nicolai Greci</cei:persName>; quartus vero finis est medius limes cuiusdam casilis quod fuit
+                        <cei:persName reg="Leo de Cale">Leonis <cei:lb/> de Cal<cei:expan>e</cei:expan></cei:persName> suorumque sortificum et reddit primo fini. Ad huius autem rei geste memoriam et robur perpetuo valiturum
+                        <cei:lb/>presens puplicum scriptum exinde tibi fieri fecimus nomine et pro parte dicte ecclesie, signo dicti notarii, subtestacione
+                        <cei:lb/>predicti iudicis et subscriptorum testium subtestationibus roboratum.
+                        <cei:setPhrase type="Declaratio notarii">Quod scripsi ego idem
+                            <cei:persName reg="Laudisius not.">Laudisius</cei:persName> puplicus eiusdem
+                            <cei:lb/>terre notarius quia predictis interfui et meo signo signavi. 
+                        </cei:setPhrase>
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Iudex
+                            <cei:expan>et</cei:expan> medic<cei:expan>us</cei:expan> hec firmo sc<cei:expan>r</cei:expan>ipta
+                            <cei:persName reg="Iohannes iud. et medicus">Ioh<cei:expan>anne</cei:expan>s</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Guillelmus de sire Ruberto">Guill<cei:expan>elmu</cei:expan>s d<cei:expan>e</cei:expan> sir<cei:expan>e</cei:expan> Rube<cei:expan>rto</cei:expan></cei:persName> testis su<cei:expan>m</cei:expan>.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+
+
+
+
+
+
+
+

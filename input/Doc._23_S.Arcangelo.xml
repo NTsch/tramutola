@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>23</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Venditio, traditio et obligatio</cei:class>
+                    <cei:abstract>Chura Maria, figlia di Nicola Bult<cei:expan>er</cei:expan>ino, insieme al marito Bonicchio vende un pezzo di terra situato nella valle Orsoleo al proprio fratello Zaccaria al prezzo di due 
+                        <cei:quote>solidi</cei:quote> di Puglia.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date>1198 settembre 4</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XLIV 89</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition>Due grandi macchie interessano parte dei due margini laterali e in alcuni casi hanno portato a perdita di testo.</cei:condition>
+                            <cei:dimensions>mm 305x180</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Virgilius</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum>Sul verso, mano secc. XIIIex.-XIV: «Carta de terra qui dedit Chura Maria filia Nicolai Vulcina ecclesie sancte 
+                            <cei:damage>Marie</cei:damage> Sancti Archangeli»; mano Venereo: «Venditio terrę in valle Ursolei facta a 
+                            <cei:damage>...</cei:damage> Maria filia Nicolai 
+                            <cei:damage>...</cei:damage> de civitate Sancti Archangeli pro solidis Apulię 2. Anno 1198», «Arca 57 n. 2»; mani sec. XIX: «Arca XLVII 25», «Arca XLIV n 89».
+                        </cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1947, pp. 98-99, n. 2.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl/>
+                        </cei:listBiblErw>
+                        <cei:p>La sottoscrizione di Giovanni è autografa, come dimostra anche il confronto con quella nel doc. 22. Al di sotto di essa una mano diversa (non è quella del notaio) ha scritto 
+                            <cei:quote>Bonicio genit<cei:expan>us</cei:expan></cei:quote>; la sottoscrizione di Giovanni è stata scritta subito sopra in un secondo momento, interrompendosi per la presenza del 
+                            <cei:quote>signum</cei:quote> del notaio e riprendendo subito dopo. Il notaio adopera l’indizione bedana e l’anno è calcolato secondo lo stile fiorentino.
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno ab incarnacione millesimo centesimo nonogesimo octavo, regnante domna
+                            <cei:lb/>nostra
+                            <cei:persName reg="Constantia, Romanorum imperatrice et regina Sicilie">Constancia</cei:persName> Ro<cei:damage>manorum imper</cei:damage>atrice semper augusta et regina Sicilie, regni vero eius anno primo feli<cei:lb/>citer die
+                            <cei:damage>qu</cei:damage>arr<cei:expan>to</cei:expan> mensis septembris prime indiccionis. 
+                        </cei:datatio>
+                        <cei:intitulatio>Ego 
+                            <cei:persName reg="Chura Maria soror Danieli m. et Zacharie pbr. f. Nicolai Bulterini">Chura Maria</cei:persName> filia 
+                            <cei:persName reg="Nicolaus Bulterini, /v./ Chura Maria, Danielis m., Zacharia pbr.">Nicolai Bult<cei:expan>er</cei:expan>ini</cei:persName> de civitate
+                            <cei:placeName reg="Sanctum Archangelum">Sancti Arcangeli</cei:placeName> 
+                        </cei:intitulatio>in presencia 
+                        <cei:persName reg="Iohannes iud.">Iohannis</cei:persName> curialis iudicis aliorumque bonorum hominum tes<cei:lb/>tium subscriptorum voluntarie una cum sire
+                        <cei:persName reg="Bonichio">Bonichio</cei:persName> viro meo 
+                        <cei:dispositio>vendo et per fustem <cei:lb/>trado</cei:dispositio> tibi presbitero
+                        <cei:persName reg="Zacharia pbr. fr. Danieli m., fr. Chure Marie f. Nicolai Bulterini">Zacharie</cei:persName>, fratri meo, videlicet aliquantulam terram meam quam habeo in
+                        <cei:lb/>valle
+                        <cei:placeName reg="Orsoleum">Ursolea</cei:placeName>, fines cuius isti sunt: primus finis est media fenestra vinęę tue;
+                        <cei:lb/>secundus finis est vinea 
+                        <cei:persName reg="Nicolaus de Fargalio">Nicholai de <cei:corr type="/corr. su rasura/">Fargalio</cei:corr></cei:persName>; 
+                        <cei:corr type="/su rasura/">tercius</cei:corr> finis est vinea filiorum 
+                        <cei:persName reg="Arrabaste (filii Arrabaste)">Arraba<cei:lb/>ste</cei:persName>; quartus vero finis est eadem vinea tua et reddit primo fini. Infra hos vero fines
+                        <cei:lb/>predictam terram tibi vendidi una<cei:expan>cum</cei:expan> predicto viro meo, tecum recipiente sire 
+                        <cei:persName reg="Danielis m. fr. Zacharie pbr., fr. Chure Marie f. Nicolai Bulterini">Danihele</cei:persName> fratre
+                        <cei:lb/>advocato tuo cum trasitu et exitu suo eciam cum omnibus infra se habentibus vel
+                        <cei:lb/>continentibus de qua nec mihi neque meis heredibus neque alicui hominum exinde partem
+                        <cei:lb/>reservavi. Recepi autem a te sol<cei:expan>idos</cei:expan>
+                        <cei:placeName reg="Apulia (solidi de Apulia)">Apulie</cei:placeName> duos, unde voluntarie cum predicto viro
+                        <cei:lb/>meo guadiam tibi dedi tecum recipiente predicto advocato
+                        <cei:corr type="/su rasura/">tuo</cei:corr> mediatore posui
+                        <cei:lb/><cei:persName reg="Nicolaus Gavarro">Nicolao Gavarr<cei:expan>o</cei:expan></cei:persName> predicte civitatis tali tenore: ut a modo et in antea eam securiter ha<cei:lb/>beas et possideas tu et heredes tui et ex ea faciatis quicquid volueritis sine mea
+                        <cei:lb/>meorumque heredum contrarietate et requisicione omnium hominum vos inde per <cei:damage>le</cei:damage><cei:lb/>gem querentium quod si taliter tibi tuisque heredibus ego vel mei heredes non adimple<cei:damage>ve</cei:damage><cei:lb/>rimus et hanc meam vendicionem vobis per legem non defensaverimus quo per <cei:damage>satis</cei:damage><cei:lb/>facionem vel quolibet excogitato ingenio venerimus obligamus m<cei:damage>e meosque</cei:damage>
+                        <cei:lb/>heredes componere tibi tuisque heredibus reg<cei:expan>ales</cei:expan> aur<cei:expan>eos</cei:expan> decem totidemque in pu<cei:damage>blico et in</cei:damage>
+                        <cei:lb/>antea vobis eam defendamus omni futuro tempore districto mediatore prescrib<cei:damage>to qui</cei:damage> trib<cei:damage>ueru</cei:damage><cei:expan>n</cei:expan>t
+                        <cei:lb/>vobis licencia pignerandi se suosque heredes per omnes res et pignera eorum licita vel
+                        <cei:damage>i</cei:damage>ll<cei:damage>icita</cei:damage>
+                        <cei:lb/>sine calumpnia et appellacione sicut et ego eis mea meorumque heredum donec que
+                        <cei:lb/>preleguntur compleamus inviti. 
+                        <cei:setPhrase type="Declaratio notarii">Et hoc breve vendicionis, trad<cei:damage>icionis</cei:damage>
+                            <cei:lb/>et obligacionis 
+                            <cei:sic>scribsit</cei:sic>
+                            <cei:persName reg="Virgilius not.">Virgilius</cei:persName> predicte civitatis curialis notarius qui interfuit   
+                        </cei:setPhrase>m<cei:damage>ense et</cei:damage> in<cei:lb/>diccione prelatis.
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+
+                            <cei:persName reg="Bonicius, /v./ Iohannes iud. f. Bonicii">Bonicio</cei:persName> genit<cei:expan>us</cei:expan> iudex hec firmo 
+                            <cei:persName reg="Iohannes iud. f. Bonichi">Io<cei:expan>hann</cei:expan>es</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus sire 
+                            <cei:persName reg="Michael m."><cei:sic>Micahelis</cei:sic></cei:persName> militis.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus sire
+                            <cei:persName reg="Simeon de Salvia">Simeonis de Salvia</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Peregrinus f. Roberti Blanti">Peregrini</cei:persName> filii
+                            <cei:persName reg="Robertus Blantus, /v./ Peregrinus f. Roberti Blanti">Roberti Blanti</cei:persName></cei:subscriptio>.
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+
+
+
+
+
+

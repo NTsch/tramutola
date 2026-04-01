@@ -1,0 +1,141 @@
+
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>2</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Offersio</cei:class>
+                    <cei:abstract>Per la salvezza dell’anima propria e di quelle dei propri genitori Pietro Russo, abitante di Marsico, figlio di Urso, dona alla chiesa di S. Pietro di Tramutola, rappresentata dal  
+                        <cei:quote>custos</cei:quote> Ubo, tutti i beni (terre e alberi da frutto) che possiede a Tramutola, riservandosene però l’usufrutto.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date>1136 luglio</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XXIII 120</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition>Nella parte alta del margine sinistro è presente uno strappo, restaurato, mentre la parte superiore della pergamena è scurita.</cei:condition>
+                            <cei:dimensions>mm 285x175</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Raynaldus</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum>Sul verso, mano Venereo: «Oblatio terrarum, castanearum, nucum et aliorum bonorum que habet in Tramutula Petrus Russo filius Ursi de civitate Marsici facta ecclesiae sancti Petri de Tramutula ab eodem reservato sibi in vita usufructu. Anno 1136», «Arca 79 n. 71»; mano sec. XIX: «Arca XXIII n°120».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1943, pp. 37-38, n. 1</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Fonseca, p. 298.</cei:bibl>
+                            <cei:bibl> Visentin 2015, p. 127.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>Il notaio Rainaldo può essere identificato con 
+                            <cei:quote>Raynaldus notarius filius Pip<cei:expan>eri</cei:expan> notarii</cei:quote> che sottoscrive in diversi documenti. Le due sottoscrizioni sono entrambe autografe.
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio>
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno incarnatjonis eiusdem millesimo centesimo tricesimo sexto, 
+                            <cei:lb/>mense iulio, indictjone quartadecima.
+                        </cei:datatio>
+                        <cei:intitulatio>Ego 
+                            <cei:persName reg="Petrus Russo f. Ursi">Petro Russo</cei:persName> filius 
+                            <cei:persName reg="Ursus /v./ Petrus Russo f. Ursi">Urso</cei:persName>, de civitate
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName>
+                        </cei:intitulatio>
+                        <cei:lb/>clarefacio quoniam presentja nobiliorum hominum subscriptorum testium bona mea 
+                        <cei:lb/>voluntate 
+                        <cei:dispositio>optuli ac 
+                            <cei:add type="/Sul rigo/">per</cei:add> fustem tradidi</cei:dispositio> in manibus domno
+                        <cei:persName reg="Ubo, abbas et custos S. Petri Tramutule">Ubo</cei:persName> cleric<cei:expan>us</cei:expan> qui est custos 
+                        <cei:lb/>hecclesie 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">beati Petri apostoli de Tramutula</cei:placeName>, recipiente cum eo abbocato suo 
+                        <cei:persName reg="Rao m. qdic. Ienco">Rao</cei:persName>
+                        <cei:corr sic="A mili">milite</cei:corr> 
+                        <cei:lb/> qui dicitur Ienco, scilicet cuntum quantum habui at 
+                        <cei:placeName reg="Tramutula">Tramutula</cei:placeName> predicta 
+                        <cei:lb/>de terris et de castaneis et de nucibus et de omnibus 
+                        <cei:sic>alis</cei:sic> ut habeat et possideat 
+                        <cei:lb/>illos et suos posteriores cum trasitis et exitis earum et cum omnia intra se habentem et 
+                        <cei:lb/>possidentem sine contrarietate mea meorumque heredum ut Deus et Dominus noster habeat remedium   
+                        <cei:lb/>anime mee meorumque defunturum parentum. Ita sane ut habeam ego predictus terris et ca<cei:lb/>staneis et nucibus et omnibus superius dictis usque dum vibus fuero et refudiem 
+                        <cei:corr type="corr. su altra lettera">et</cei:corr> post 
+                        <cei:lb/>obitus mei omnibus superius dictis ad predictam hecclesiam et ad rectorum eius remaneat et 
+                        <cei:lb/>guadiam ei dedi recipiente cum eo advocato suo predicto et mediatores eis posui 
+                        <cei:persName reg="Ricus f. Maginolfi">Rico</cei:persName> filium 
+                        <cei:persName reg="Maginolfus, /v./ Ricus f. Maginolfi">Ma<cei:lb/>ginolfo</cei:persName> et
+                        <cei:persName reg="Ursus f. Freda, de Freda">Urso</cei:persName> filium  
+                        <cei:persName reg="Freda, /v./ Ursus f. Freda, de Freda">Freda</cei:persName> ut iam nec ego nec mei heredes non queramus aliquando 
+                        <cei:lb/>tempore ut predicta offertj<cei:expan>one</cei:expan> disrumpta aut 
+                        <cei:add type="/con/ -r- /agg. sul rigo/">retroata</cei:add> sit neque ad predicto domno 
+                        <cei:lb/><cei:persName reg="Ubo, abbas et custos S. Petri Tramutule">Ubo</cei:persName> neque ad suos posteriores. Et si hec omnia super dicta adimplere noluerimus 
+                        <cei:lb/>ut per legem vel per causatjonem cum eis exinde venerimus aut si defendere nolu<cei:lb/>erimus de omnibus hominibus quam et a pars morginc<cei:expan>apitis</cei:expan> mee uxoris, obligo me et meos 
+                        <cei:lb/>heredes dare eis vel suis successoribus solidos viginti aur<cei:expan>eos</cei:expan> et in puplico similiter et 
+                        <cei:lb/>per invitis taceamus distric<cei:expan>tos</cei:expan> ipsos mediatores qui licentjam tribuerunt pingerari se et illorum 
+                        <cei:lb/>heredes per omnia pingera illorum legitima et inlegitima sine cal<cei:expan>umnia</cei:expan> et appellatjone donec quod prelegitur in<cei:lb/>viti impleamus.
+                        <cei:setPhrase type="Declaratio notarii">Et hunc brebe offertjonis scripsit 
+                            <cei:persName reg="Rainaldus iud. et not. f. Piperi not.">Raynaldus</cei:persName> notarius qui interfuisse se confi<cei:lb/>tetur;
+                        </cei:setPhrase> mense et indictjone prelatis.
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego 
+                            <cei:persName reg="Riccardus iud. et archidiaconus">Riccardus</cei:persName> iud<cei:expan>ex</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego 
+                            <cei:persName reg="Guillelmus iud. f. Ursi iud.">Guli<cei:expan>el</cei:expan>mus</cei:persName> iud<cei:expan>ex</cei:expan> fi<cei:expan>lius</cei:expan>
+                            <cei:persName reg="Ursus iud. /v./ Guillelmus iud. f. Ursi iud.">Urso</cei:persName> iud<cei:expan>icis</cei:expan>.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+

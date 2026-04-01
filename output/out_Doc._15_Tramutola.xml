@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>15</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Oblatio, traditio et obligatio</cei:class>
+                    <cei:abstract>Per la salvezza della propria anima e per quelle dei suoi genitori il marsicano 
+                        <cei:quote>Com<cei:expan>es</cei:expan></cei:quote> Giovanni, figlio di Dalfio, dona alla chiesa di S. Pietro di Tramutola, per il tramite del marsicano Giovanni, monaco cavense, le terre e gli alberi che possiede nella valle di Tramutola.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date value="11490999"/>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XXVII 9</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p/>
+                            </cei:decoDesc>
+                            <cei:condition> 
+                            </cei:condition>
+                            <cei:dimensions>mm 415x195</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Iohannes</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota/>
+                        <cei:rubrum> Sul verso, mano sec. XII: «Carta sancti Petri Tramutule, off<cei:expan>ersio</cei:expan> Com<cei:expan>itis</cei:expan> Iohannis»; mano sec. XIII: «Carta sancti Petri de Tramutula»; mano Venereo: «Oblatio omnium bonorum pertinentium ad comitem Ioannem filium Dalfii de civitate Marsici terrarum videlicet et arborum in cunctis locis vallis Tramutulę ab eo facta ecclesiae sancti Petri Tramutulae. Anno 1150», «Arca 79, n. 29»; mano secc. XVII-XVIII: «1150, N»; mano sec. XIX: «Arca XXIII, 
+                            <cei:damage>n.</cei:damage> 50», «Arca XXVII, n° 91».
+                        </cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl/>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Visentin 2015, p. 131 (con data 1150 settembre).</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>La presenza delle legature tipiche della beneventana è irregolare in questo documento. Alla riga 2 
+                            <cei:quote>Dalfii</cei:quote> è scritto in inchiostro più scuro e modulo minore e probabilmente è stato aggiunto dal notaio in un secondo momento su uno spazio lasciato bianco, leggermente più ampio di quello necessario per l’aggiunta. Le sottoscrizioni sono autografe. È impiegato lo stile bizantino (che il notaio Giovanni adopera anche nel doc. 10); Visentin propone invece il settembre 1150, ma la proposta non è condivisibile.
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio> 
+                        <cei:datatio type="Datatio cronica">Anno incarnatjonis eiusdem millesimo centesimo quinquagesimo,
+                            <cei:lb/>mense septembris, indictjone tertjadecima. 
+                        </cei:datatio> 
+                        <cei:intitulatio>Ego 
+                            <cei:persName reg="Comes Iohannes f. Dalfii">Com<cei:expan>es</cei:expan> Iohannes</cei:persName> filius
+                            <cei:persName reg="Dalfius, /v./ Comes Iohannes f. Dalfii">Dalfii</cei:persName> de civitate 
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName>
+                        </cei:intitulatio>clare<cei:lb/>facio quoniam presentja bonorum hominum subscriptorum testium voluntarie remedio anime meę
+                        <cei:lb/>meorumque decunctorum parentum animarum redemtjone 
+                        <cei:dispositio>obtuli ac per fustem tradidi</cei:dispositio> ecclesie 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri<cei:lb/> Tramutule</cei:placeName> quantum mihi pertinuit de terris videlicet et arboribus fructiferis et infructiferis per cun<cei:lb/>cta loca 
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> vallis. Ut sit eiusdem sancte ecclesie predicte et illorum qui sanctam prefatam ecclesiam 
+                        <cei:lb/>regere et gubernare videbuntur ad faciendum ipsius ecclesie utilitatem sine mea et heredum 
+                        <cei:lb/>meorum contrarietate et requisitjone omni tempore futuro cum trasitis et exitis suis et cum 
+                        <cei:lb/>omnibus infra se habentibus et possidentibus. Hanc eandem oblatjonem et baculi traditjonem 
+                        <cei:lb/>domno
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohanne</cei:persName> 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName>, 
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis de Cava</cei:placeName> monacho et cappellano domni 
+                        <cei:persName reg="Marinus abbas eccl. Ss. Trinitatis Cave">Marini</cei:persName>, eiusdem 
+                        <cei:lb/>loci abbatis venerabilis, cum advocato suo 
+                        <cei:persName reg="Constantino not."><cei:corr sic="A Co(n)statino">Constantino</cei:corr></cei:persName> notario recipiente; positis 
+                        <cei:lb/>inde fideiussoribus 
+                        <cei:persName reg="Rainaldo Scribano">Raynaldo Scribano</cei:persName> et 
+                        <cei:persName reg="Rainaldus f. Iohannis Malfitani">Raynaldo</cei:persName> 
+                        <cei:persName reg="Iohannes Malfitanus, /v./ Rainaldus f. Iohannis Malfitani">Iohannis Malfitani</cei:persName> filio atque 
+                        <cei:persName reg="Donodeus f. Bisantii Foresterii">Donod<cei:expan>e</cei:expan>o</cei:persName> 
+                        <cei:lb/>filio 
+                        <cei:persName reg="Bisantius Foresterius, /v./ Donodeus f. Bisantii Foresterii">Bisantii Foresterii</cei:persName> predicte civitatis 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> ut iam nec ego nec heredes 
+                        <cei:lb/>mei super eandem iamdictam ecclesiam vel gubernatores eius exinde veniamus, nec nos nec per 
+                        <cei:lb/>a nobis personas suppositas et si hominum quispiam prefatam ecclesiam inde molestare quesierit, ego vel 
+                        <cei:lb/>heredes mei ipsi ecclesie ab omni persona defendamus umana. Quod si taliter noluerimus vel 
+                        <cei:lb/>nequiverimus 
+                        <cei:corr type="fac(e)r(e) (et) /corr. su lettere dilavate/">facere et</cei:corr> oblatjonem istam disrumpere vel retroare quesierimus modo quolibet 
+                        <cei:lb/>vel ingenio obligo me et meos heredes ipsi ecclesie eiusdemque rectoribus componere regales 
+                        <cei:lb/>aureos viginti et in puplico similiter, ipsis districtis fideiussoribus 
+                        <cei:corr type="/Ripetuto/">licentjam</cei:corr> 
+                        <cei:lb/>tribuentibus pignarandi se et heredes suos per eorum omnia pignara legitima et inlegitima sine 
+                        <cei:lb/>calumnia et appellatjone donec quod prelegitur inviti impleamus. 
+                        <cei:setPhrase type="Declaratio notarii">Et hunc brebe oblatjonis, traditjonis 
+                            <cei:lb/>et obligatjonis scripsit 
+                            <cei:persName reg="Iohannes not. f. Bisantii iud.">Iohannes</cei:persName> notarius qui interfuisse se confitetur; 
+                        </cei:setPhrase> mense et indictjone prelatis. 
+                        <cei:lb/>
+                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ 
+                            <cei:persName reg="Iaspidus not. et iud.">Iaspidus</cei:persName> hoc totu<cei:expan>m</cei:expan> iudex p<cei:expan>ro</cei:expan>bat ordine notu<cei:expan>m</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName reg="Riccardus iud. et archidiaconus">Ild<cei:expan>e</cei:expan>mann<cei:expan>us</cei:expan></cei:persName> iud<cei:expan>ex</cei:expan>.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName/>
+                <cei:placeName/>
+                <cei:index/>
+                <cei:divNotes>
+                    <cei:note/>
+                </cei:divNotes>
+                <cei:class/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

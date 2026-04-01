@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>28</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Oblatio, donatio, traditio et obligatio</cei:class>
+                    <cei:abstract>Il prete Paolo, figlio del fu Amerisio de Salcubino, per la salvezza della propria anima dona due vigneti situati in luogo detto
+                        <cei:quote>Bossino</cei:quote> alla chiesa di S. Maria di Orsoleo rappresentata dal
+                        <cei:quote>rector</cei:quote> Bonicio.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date>1281 luglio</cei:date>
+                        <cei:placeName>Sant'Arcangelo</cei:placeName>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>LVII 110</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition></cei:condition>
+                            <cei:dimensions>mm 390x210</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Iacob</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum>Sul verso, mano coeva: «Carta de duabus vinealibus ecclesie sancte Marie de Ursoleone de Sancto Archangelo», a cui mano Venereo aggiunge «oblatis a Paulo filio quondam Amerisii de
+                            <cei:damage>Sancto Archangelo</cei:damage>. Anno 1281», «Arca 57, n. 22»; mano sec. XVII: «Apud castrum sancti Archangeli»; mano sec. XIX: «Arca LVII, n° 10».
+                        </cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1947, pp. 105-107, n. 7.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl/>
+                        </cei:listBiblErw>
+                        <cei:p>Le sottoscrizioni in prima persona sono autografe e le ultime due sono scritte in inchiostro più chiaro. La segnatura fornita da Mattei Cerasoli (LVII 10) è errata.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno ab incarnacione eiusdem millesimo ducentesimo octogesimo primo, regnante domno nostro  
+                            <cei:persName reg="Carolus I rex Sicilie">Karolo</cei:persName>, Dei gracia gloriosissimo Ierusalem
+                            <cei:lb/>et Sicilie rege, ducatus Apulie, principatus Capue, Andegavie, Provincie, Forkarquerii ac Tornandorii comite illustrissimo, regnorum vero eius Ierusalem anno quinto et Sicilie sextodecimo feliciter, amen; mense iulii none indictionis
+                        </cei:datatio>
+                        <cei:datatio type="Datatio topica">apud
+                            <cei:placeName reg="Sanctum Archangelum">Sanctum Archangelum</cei:placeName>. 
+                        </cei:datatio>
+                        <cei:intitulatio>Ego presbiter
+                            <cei:persName reg="Paulus pbr. f. qd. Amerisii de Salcubino">Paulus</cei:persName>, filius quondam
+                            <cei:lb/><cei:persName reg="Amerisius de Salcubino, /v./ Paulus pbr. f. qd. Amerisii de Salcubino">Amerisii de Salcubino</cei:persName>
+                        </cei:intitulatio>, habitator eiusdem terre
+                        <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName>, voluntarie in presencia
+                        <cei:persName reg="Willelmus de sire Laurencio iud.">Guillelmi de sire Laurencio</cei:persName>,
+                        <cei:persName reg="Iacob de sire Raone iud.">Iacob de sire Raone</cei:persName>, iudicum eiusdem terre,
+                        <cei:persName reg="Iacob de sire Goffrido not.">Iacob de sire Goffridi</cei:persName> puplici eiusdem loci notarii et testium subscriptorum ad hoc specialiter vocatorum et rogatorum, pro remedio anime mee meorumque parentum
+                        <cei:dispositio>offero, dono
+                            <cei:lb/>et concedo
+                        </cei:dispositio> ecclesie
+                        <cei:placeName reg="S. Marie Orsolei, eccl. Sancti Archangeli">beate Marie de Ursuleone</cei:placeName> mecum adstante
+                        <cei:persName reg="Rao de Orengia">Raone de Or<cei:expan>n</cei:expan>egia</cei:persName> advocato meo, recipiente pro eadem ecclesia dompno
+                        <cei:persName reg="Bonicius f. qd. Roberti iud., prior, patronus et rector eccl. S. Marie de Ursoleone">Bonicio</cei:persName> de eadem terra,
+                        <cei:lb/>patrono et rectore ipsius ecclesie secum adstante
+                        <cei:persName reg="Philippus">Philippo</cei:persName> fratre et advocato suo, duo mea vinealia ad invicem confractanciam in loco ubi dicitur
+                        <cei:placeName reg="Bossinus, l. udic.">Bo<cei:lb/>ssinus</cei:placeName>, iuxta terram donne
+                        <cei:persName reg="Blanca f. qd. Petri medici">Blance</cei:persName> filie quondam magistri
+                        <cei:persName reg="Petrus medicus, /v./ Blanca f. qd. Petri medici">Petri</cei:persName> medici. Quorum duorum vinealium fines isti sunt: primus finis est via puplica que vadit ad
+                        <cei:lb/><cei:placeName reg="Rocca Nova">Roccam Novam</cei:placeName>; secundus finis est terra prenominate ecclesie
+                        <cei:placeName reg="S. Marie Orsolei, eccl. Sancti Archangeli">beate Marie de Ursuleone</cei:placeName>; tercius finis terra donne
+                        <cei:persName reg="Blanca f. qd. Petri medici">Blance</cei:persName> predicte et terra quam tenet 
+                        <cei:persName reg="Gualterius de Maiore">Gua<cei:lb/>lterius de Maiore</cei:persName> pro parte uxoris sue nomine dotis; quartus vero finis est terra
+                        <cei:persName reg="Iohannes Pullicello">Iohannis Pullicello</cei:persName> suorumque sortificum et redit primo fine. Infra quos
+                        <cei:lb/>quidem fines predicta et determinata duo mea vinealia iamdicte ecclesie optuli, donavi et per fustem tradidi cum transitibus et exitibus suis et cum
+                        <cei:lb/>omnibus que infra se habentur et continentur, de quibus neminem partem aliquam reservavi. Immo voluntarie dicto dompno
+                        <cei:persName reg="Bonicius f. qd. Roberti iud., prior, patronus et rector eccl. S. Marie de Ursoleone">Bonicio</cei:persName> recipienti pro eadem
+                        <cei:lb/>ecclesia vadiam dedi et fideiussorem posui
+                        <cei:persName reg="Nicolaus">Nicolaum</cei:persName>, probum hominem de eadem terra. Tali quidem tenore, ut a modo et omni futuro tempore prefata ecclesia et rec<cei:lb/>tores eius pro parte ipsius ecclesie vinealia ipsa manuteneant et possideant ad opus ipsius ecclesie et de ipsis faciant quicquid voluerint sine mea
+                        <cei:lb/>meorumque heredum contrarietate et requisicione omnium hominum eandem ecclesiam de ipsis vinealibus per legem querencium. Quod si taliter ego vel mei heredes dicte
+                        <cei:lb/>ecclesie vel eius rectoribus non adimpleverimus et hanc meam oblacionem seu donacionem ipsis non defensaverimus, quo per causacionem vel per legem quolibet
+                        <cei:lb/><cei:sic>inienio</cei:sic> excogitato eandem ecclesiam seu rectores eius convenerimus, obligo me meorumque heredes componere ipsi ecclesie vel eius rectoribus
+                        <cei:lb/>augustales aur<cei:expan>eos</cei:expan> decem totidemque in puplico et in antea defendamus eis vinealia ipsa inviti, districto fideiussore predicto qui coram predictis iudicibus
+                        <cei:lb/>et testibus tribuit predicto dompno
+                        <cei:persName reg="Bonicius f. qd. Roberti iud., prior, patronus et rector eccl. S. Marie de Ursoleone">Bonicio</cei:persName> et supcessoribus suis, rectoribus eiusdem ecclesie, licenciam pignerandi se suosque heredes per omnes res et
+                        <cei:lb/>pignera eorum licita et illicita sine calumpnia et appellacione sicut et ego eis mea meorumque heredum donec que preleguntur omnia compleamus in<cei:lb/>viti. Et hoc breve oblacionis, donacionis, tradicionis et obligacionis predicte ad cautelam prenominate ecclesie suorumque rectorum rogatu
+                        <cei:lb/>et consensu meo scripsit
+                        <cei:persName reg="Iacob de sire Goffrido not.">Iacob de sire Goffridi</cei:persName> puplico dicte terre tabellio qui predictis interfuit anno, mense et indictione prelatis.
+                        <cei:setPhrase type="Declaratio notarii">Quod scripsi ego
+                            <cei:lb/>qui supra
+                            <cei:persName reg="Iacob de sire Goffrido not.">Iacob</cei:persName> puplicus dicte terre notarius et meo solito signo signavi.  
+                        </cei:setPhrase>
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego iudex
+                            <cei:persName reg="Willelmus de sire Laurencio iud.">Guill<cei:expan>elmu</cei:expan>s d<cei:expan>e</cei:expan> sire Laurenc<cei:expan>io</cei:expan></cei:persName> q<cei:expan>ui</cei:expan> sup<cei:expan>ra</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Signum crucis manus proprie mei
+                            <cei:persName reg="Iacob de sire Raone iud.">Iacob de sire Raon</cei:persName> iudicis qui supra.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego not<cei:expan>arius</cei:expan>
+                            <cei:persName reg="Petrus f. Iohannis iud.">Petrus</cei:persName> iudic<cei:expan>is</cei:expan>
+                            <cei:persName reg="Iohannes iud., /v./ Petrus f. Iohannis iud.">Ioh<cei:expan>ann</cei:expan>is</cei:persName> testis sum q<cei:expan>ui</cei:expan>a int<cei:expan>er</cei:expan>fui.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName reg="Iohannes de Sancto Iuliano">Ioh<cei:expan>ann</cei:expan>es d<cei:expan>e</cei:expan> S<cei:expan>an</cei:expan>c<cei:expan>t</cei:expan>o Iulian<cei:expan>o</cei:expan></cei:persName> testis sum.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+

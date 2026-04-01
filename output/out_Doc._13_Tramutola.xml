@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>13</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Oblatio, traditio et obligatio</cei:class>
+                    <cei:abstract>Per la salvezza delle proprie anime e per quelle dei loro genitori i marsicani Grisando Curatolo, figlio di Pietro, Urso Bove, figlio di Onerico, Russo, figlio di Pietro Rinco, per il tramite del marsicano Giovanni, monaco cavense, donano alla chiesa di S. Pietro di Tramutola tutti i beni che possiedono nella valle di Tramutola e quelli in luogo detto
+                        <cei:quote>Raspullo</cei:quote>, ad eccezione del castagneto di
+                        <cei:quote>Picare</cei:quote>.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date value="11480599"/>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement> 
+                            <cei:arch>AC</cei:arch> 
+                            <cei:idno>XXVII 5</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p/>
+                            </cei:decoDesc>
+                            <cei:condition/>
+                            <cei:dimensions>mm 475x230</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Iohannes</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota/>
+                        <cei:rubrum> Sul verso, mano sec. XII: «Carta sancti Petri de Tramutula de rebus in valle a Grisanto et Urso Bove et Russo oblatis»; mano sec. XIII: «Sancti Petri de Tramutula»; mano secc. XV-XVI: «
+                            <cei:damage>...</cei:damage> terre poste dove se dice Raspullo et qualis est 
+                            <cei:damage>...</cei:damage> in tota valle Tramutule»; mano Venereo: «Oblatio omnium bonorum in loco ubit Raspula dicitur et per universam vallem Tramutulae pertinentium Grisando Curatolo filio Petri et Ursoni Boio filio Onerici et Russo filio Petri Rigii de civitate Marsici ab eis facta ecclesiae sancti Petri Tramutulae, reservato sibi castanieto Picarae. Anno 1148», «Arca 79, n° 22»; mano secc. XVII-XVIII: «1148»; mano sec. XIX: «Arca XXVII, n° 5». 
+                        </cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1943, pp. 103-104, n. 10.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Visentin 2015, p. 130.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>Nel margine sinistro, all’altezza del rigo della concessione della
+                            <cei:quote>guadia</cei:quote> (145mm dal margine superiore), si trova un piccolo segno di croce, scritto con un inchiostro che sembra quello del notaio (cfr. docc. 7, 8). L'
+                            <cei:quote>arenga</cei:quote>, già diffusa in Europa nei secoli precedenti, è adoperata dal notaio Giovanni anche in altre occasioni (v. doc. 6). A partire da questa pergamena il notaio Giovanni non adopera più lettere con il tratteggio della beneventana (nei docc. yyy oscillava nel tratteggio di
+                                <cei:quote>t</cei:quote>), mantenendo però le legature caratteristiche. Le sottoscrizioni sono entrambe autografe. </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno incarnatjonis eiusdem millesimo centesimo quadragesimo octavo, mense 
+                            <cei:lb/>madio, indictjone undecima. 
+                        </cei:datatio>
+                        <cei:arenga>Cum in divina legatur pagina: “sicut aqua ignem extinguit, ita 
+                            <cei:lb/>elemosina peccatum”, 
+                        </cei:arenga>
+                        <cei:intitulatio>
+                            <cei:corr sic="nons">nos</cei:corr> igitur 
+                            <cei:persName reg="Grisandus Curatolus f. Petri">Grisando Curatolus</cei:persName> filius 
+                            <cei:persName reg="Petrus, /v./ Grisandus Curatolus f. Petri">Petri</cei:persName> et 
+                            <cei:persName reg="Ursus Bos f. Onerici">Urso Bos</cei:persName> filius
+                            <cei:persName reg="Onericus, /v./ Ursus Bos f. Onerici">Onerici</cei:persName> et
+                            <cei:persName reg="Russus f. Petri Rinci">Russo</cei:persName>
+                            <cei:lb/><cei:persName reg="Petrus Rincus, /v./ Russus f. Petri Rinci">Petri Rincy</cei:persName> filius de civitate
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName>
+                        </cei:intitulatio>, remedio anime nostre nostrorumque defunctorum parentum animarum re<cei:lb/>demptjone, declaramus etenim bona et congrua voluntate nostra, subscriptorum testium bonorum hominum presentja, 
+                        <cei:lb/>
+                        <cei:dispositio>offerimus ac per fustem tradidimus </cei:dispositio> ecclesie 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri Tramutule</cei:placeName>, recipiente hanc eandem oblatjonem domno
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohanne</cei:persName>
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName>
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis de Cava</cei:placeName> monacho una cum advocato suo 
+                        <cei:persName reg="Rogerius f. Riccardi archidiaconi">Rogerio</cei:persName> domni
+                        <cei:persName reg="Riccardus archidiaconus, /v./ Rogerius f. Riccardi archidiaconi">Riccardi</cei:persName> archidiaconi 
+                        <cei:lb/> filio, quantum nobis pertinuit ad locum ubi
+                        <cei:placeName reg="Raspullo, l. udic.">Raspull<cei:expan>o</cei:expan></cei:placeName> vocatur et per universam valle 
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> cum trasitis 
+                        <cei:lb/>videlicet et exitis suis et cum omnibus infra se habentibus et possidentibus sine nostra et heredum nostrorum 
+                        <cei:lb/>ac omnium hominum contrarietate et requisitjone omni tempore futuro preter
+                        <cei:placeName reg="Picare">Picare</cei:placeName> castanietum quod nobis nostrisque
+                        <cei:lb/>heredibus reservavimus in eodem loco. Unde eidem domno
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohanni</cei:persName> vadiam dedimus eandem ipsam cum
+                        <cei:lb/>advocato suo iamdicto recipiente, fideiussoribus positis
+                        <cei:persName reg="Guillelmo f. Gualterii">Guilielmo</cei:persName> filio
+                        <cei:persName reg="Gualterius, /v./ Guillelmo f. Gualterii">Gualterii</cei:persName> et
+                        <cei:persName reg="Rainaldus Scribanus">Raynaldo<cei:lb/>Scribano</cei:persName> necnon et
+                        <cei:persName reg="Ursus f. Iohannis Rellatorta">Ursone</cei:persName> filio 
+                        <cei:persName reg="Iohannes Rellatorta, /v./ Ursus f. Iohannis Rellatorta">Iohannis Rellatorta</cei:persName> de civitate predicta, ut iam nec nos nec heredes 
+                        <cei:lb/>nostri hanc oblatjonem disrumpere vel removere seu 
+                        <cei:corr type="/la prima/ -r- /corr. su/ a">substraere</cei:corr> ab eadem prefata ecclesia queramus nec 
+                        <cei:lb/>nos nec per a nobis personas suppositas. Et si aliquis hominum de hac oblatjone super eandem iamdictam 
+                        <cei:lb/>ecclesiam venerit nos heredes nostri ipsi ecclesie defendamus ab omni humana persona. Quod si taliter facere 
+                        <cei:lb/>noluerimus vel 
+                        <cei:corr sic="A neq(ui)rim(us)">nequiverimus</cei:corr> et oblatjonem istam disrumpere vel retroare quesierimus quolibet modo vel inge<cei:lb/>nio, obligamus nos et heredes nostros predicte ecclesie viginti regales aureos esse tributuros 
+                        <cei:lb/>et in puplico similiter, ipsis districtis fideiussoribus licentjam tribuentibus pignarandi se et suos
+                        <cei:lb/>heredes per eorum omni pignara legitima et inlegitima sine calumnia et appellatjone donec quod prelegitur nobis 
+                        <cei:lb/>impleatur invitis. 
+                        <cei:setPhrase type="Declaratio notarii">Et hunc brevem oblatjonis, traditjonis et obligatjonis scripsit
+                            <cei:persName reg="Iohannes not. f. Bisantii iud.">Iohannes</cei:persName>
+                            <cei:lb/>notarius qui interfuisse se confitetur; 
+                        </cei:setPhrase>mense et indictjone prelatis. 
+                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego
+                            <cei:persName reg="Riccardus iud. et archidiaconus">Riccardus</cei:persName> iud<cei:expan>ex</cei:expan>. 
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName reg="Ildemannus not., iud. et diaconus">Ild<cei:expan>e</cei:expan>mann<cei:expan>us</cei:expan></cei:persName> iud<cei:expan>e</cei:expan>x.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName/>
+                <cei:placeName/>
+                <cei:index/>
+                <cei:divNotes>
+                    <cei:note/>
+                </cei:divNotes>
+                <cei:class/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

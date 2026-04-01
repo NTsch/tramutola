@@ -1,0 +1,137 @@
+
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>1</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Offersio</cei:class>
+                    <cei:abstract>Per la salvezza della propria anima e di quella dei suoi genitori Milando, figlio di Ursone, abitante di Marsico, dona alla chiesa di S. Pietro di Tramutola, rappresentata dall’abate Ubo, se stesso e tutti i propri beni situati nella valle di Tramutola, ad eccezione di quelli che aveva già donato alla chiesa insieme ai
+                        <cei:quote>consortes</cei:quote>.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date>1135 dicembre</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XXIV 14</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition>L’inchiostro è leggermente sbiadito nella prima parte del documento; la rigatura è a secco.</cei:condition>
+                            <cei:dimensions>mm 330x210</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Ildemannus</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum>Sul verso, mano sec. XII: «Off<cei:expan>ersio</cei:expan> Milandi se et suis in ecclesia sancti Petri Tramutule»; mano sec. XIII: «Carta sancti Petri de Tramutula»; mano sec. XV: «Magni valoris anni»; mano Venereo: «Oblatio sui et bonorum suorum in tota Valle Tramutula facta ecclesiae sancti Petri de Tramutula a Milando filio Ursonis de civitate Marsici. Anno 1136», «Arca 79, n° 87»; mano secc. XVII-XVIII: «1136»; mano sec. XIX: «Arca XXIV n° 14». Sul recto, alla fine della riga 14, mano di età moderna: «a».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblErw>
+                            <cei:bibl>Visentin 2015, pp. 128-129 (con data 1136 dicembre)</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>La scrittura del notaio Ildemanno (che si definisce giudice nel doc. 8 e 
+                            <cei:quote>diaconus</cei:quote> nel doc. 5) è caratterizzata dalla presenza, rara, della 
+                            <cei:quote>a</cei:quote> e della 
+                            <cei:quote>e</cei:quote> caroline. Le due sottoscrizioni sono autografe. Gli elementi della datazione dimostrano l’uso dello stile bizantino. Visentin propone invece il dicembre 1136, ma la proposta non è condivisibile. Per un errore di lettura Visentin identifica come destinatario della donazione un altrimenti ignoto abate Urso.
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio>
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio> 
+                        <cei:datatio type="Datatio cronica">Anno ab incarnatjone eiusdem millesimo centesimo tricesimo sexto, mense decembris, indictjone quartade<cei:lb/>cima</cei:datatio>. 
+                        <cei:intitulatio>Ego
+                            <cei:persName reg="Milandus f. Ursonis">Milandus</cei:persName> filius 
+                            <cei:persName reg="Ursus, /v./ Milandus f. Ursonis">Ursonis</cei:persName>, de civitate 
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName>
+                        </cei:intitulatio>clarefacio quoniam presentja bonorum hominum subscriptorum 
+                        <cei:lb/>testium bona mea voluntate puraque conscentja, divina inspiratjone inspirante me, pro salute anime mee meorumque pa<cei:lb/>rentum defunctorum et christianorum omnium  
+                        <cei:dispositio>obtuli</cei:dispositio> me scilicet ad ecclesie 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri Tramutule</cei:placeName> cum 
+                        <cei:lb/>cunctis rebus meis stabilibus mihi ibidem nunc pertinentem in tota valle 
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> et per fustem dimisi rebus meis 
+                        <cei:lb/>iamdictis recipiente domno 
+                        <cei:persName reg="Ubo, abbas et custos S. Petri Tramutule">Ubo</cei:persName> abbate eadem ecclesie una cum suo advocato 
+                        <cei:persName reg="Guillelmo miles f. Pandi Militis">Guilielmo</cei:persName> milem fi<cei:expan>lio</cei:expan> 
+                        <cei:persName reg="Pandus miles, /v./ Guillelmo f. Pandi militis">Pandi</cei:persName> militis. Res namque 
+                        <cei:lb/>cum quibus me obtuli ad predicta ecclesia et in manibus eiusdem de predicto abbate as esse dico, videlicet quantum illuc 
+                        <cei:lb/>per tota valle 
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> nunc mihi 
+                        <cei:corr sic="A pertinui">pertinuit</cei:corr> absque aliis rebus 
+                        <cei:sic>quos</cei:sic> olim cum consortibus meis dedi ad ista predicta ecclesia, 
+                        <cei:lb/>reliquum vero nunc mihi ibi pertinentem obtuli ad sancta predicta ecclesia terris, arboribus pomiferis quam et fructiferis, 
+                        <cei:lb/>cultum et incultum, aquis, silvis, casis et casilis, horta et hortalis, pascuis et castaneis omnibus ibidem nunc 
+                        <cei:lb/>mihi pertinent<cei:expan>ibus</cei:expan> per tota valle 
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> cum transitis et exitis eorum sine mea meorumque heredum contrarietate habeat 
+                        <cei:lb/>et possideat dictis rebus sancta Dei ecclesia. Et pro stabiliscendam hanc meam offertjonem, statim guadia ei dedi ad predicto 
+                        <cei:lb/>domno 
+                        <cei:persName reg="Ubo, abbas et custos S. Petri Tramutule">Ubo</cei:persName> recipiente cum advocato suo qui supra et 
+                        <cei:corr type="/corr. da/ mediatores /con/ -s /depennata/">mediatore</cei:corr> ei posui 
+                        <cei:persName reg="Petracca Corveserius">Petracca Corveserius</cei:persName> quam et 
+                        <cei:persName reg="Ramfo f. Radolfi">Ra<cei:expan>m</cei:expan>fo</cei:persName>
+                        <cei:add hand="/una mano seriore/" type="/agg. una/ a /nell'interl. sup./"><cei:persName reg="Rodolfus, /v./ Ramfo f. Radolfi">Radolfi</cei:persName></cei:add> 
+                        <cei:lb/>ut iam nec ego nec meis her<cei:expan>edes</cei:expan> non abeamus potestatem retroare aut disrumpere hanc hoffertjonem, set defenda<cei:lb/>mus illam ad ista Dei ecclesia ab omnibus hominibus quam et a parte morgincap<cei:expan>itis</cei:expan> mee uxoris et de eius mundualdo quod si non 
+                        <cei:lb/>potuerimus vel noluerimus illam defendere aut voluerimus movere vel disrumpere ista offertj<cei:expan>onem</cei:expan> primitus 
+                        <cei:lb/>questio nostra vacua sit et componamus ad ipsa sancta Dei ecclesia solidos viginti aur<cei:expan>eos</cei:expan> et in puplico similiter et 
+                        <cei:lb/>taceamus per invitis, districto ipso mediatore qui licentjam tribuit ping<cei:expan>erandi</cei:expan> eos et eorum heredibus per omnia pin<cei:expan>gera</cei:expan> 
+                        <cei:lb/>illorum, legitima et inlegitima sine cal<cei:expan>umnia</cei:expan> et appellatjone donec quod supra legitur invitis impleamus. 
+                        <cei:setPhrase type="Declaratio notarii">Et huc brebe offertjonis 
+                            <cei:lb/>atque obligatjonis scripsit 
+                            <cei:persName reg="Ildemannus not., iud. et diaconus">Ildemannus</cei:persName> notarius qui interfuisse se confitetur</cei:setPhrase>; mense et indictjone prelatis. 
+                        <cei:lb/>
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego 
+                            <cei:persName reg="Guillelmus iud. f. Ursi iud.">Guli<cei:expan>el</cei:expan>mus</cei:persName> iud<cei:expan>ex</cei:expan> fi<cei:expan>lius</cei:expan> 
+                            <cei:persName reg="Ursus iud. /v./ Guillelmus iud. f. Ursi iud.">Urso</cei:persName> iud<cei:expan>icis</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Rainaldus iud. et not. f. Piperi not.">Raynald<cei:expan>us</cei:expan></cei:persName> not<cei:expan>arius</cei:expan> fi<cei:expan>lius</cei:expan>
+                            <cei:persName reg="Piperus, /v./ Rainaldus iud. et not. f. Piperi not.">Pip<cei:expan>eri</cei:expan></cei:persName> not<cei:expan>arii</cei:expan>.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+

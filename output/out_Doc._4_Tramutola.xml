@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>4</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Venditio</cei:class>
+                    <cei:abstract>Il marsicano Urso Greco, figlio di Nicola, vende a Ubo, prete, monaco e 
+                        <cei:quote>custos</cei:quote> della chiesa di S. Pietro di Tramutola, tutti i beni (terre e alberi da frutto) situati a Tramutola, che aveva acquistato da Maraldo, figlio di Dalfio. 
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date value="11361299"/>
+                        <cei:placeName>Marsico Nuovo</cei:placeName>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XXIV 35</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p/>
+                            </cei:decoDesc>
+                            <cei:condition>Sono presenti delle piccole abrasioni accidentali lungo i margini; una macchia scura interessa la parte centrale delle ultime due righe del testo.</cei:condition>
+                            <cei:dimensions>mm 240x160</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Raynaldus</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota/>
+                        <cei:rubrum>Sul verso, mano sec. XII: «Off<cei:expan>ersio</cei:expan> Ursi Greci in ecclesia sancti Petri Tramutule»; mano sec. XIII: «Carta sancti Petri de Tramutula»; mano Venereo: «Venditio omnium terrarum et nucum et castanearum et omnium bonorum quae habuit a Maraldo filio Dalfii, Urso Grecus filius Nicolai de civitate Marsici quo ad medietatem ecclesiae sancti Petri apostoli de Tramutula ad Ursone pro quinque millibus de bonis ramensibus. Anno 1137», «Arca 79, N° 48»; mano sec. XIX: «Arca XXIV, n° 35».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1943, pp. 40-41, n. 4 (con data 1137 dicembre).</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Visentin 2015, p. 129 (con data 1137 dicembre).</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>Le due sottoscrizioni sono autografe. Gli elementi della datazione sono coerenti con lo stile bizantino: la data proposta da Visentin (dicembre 1137) non è condivisibile.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno incarnatjonis eiusdem millesimo centesimo tricesimo septimo, mense  
+                            <cei:lb/>decembris, indictjone quintadecima.  
+                        </cei:datatio> 
+                        <cei:intitulatio>Ego 
+                            <cei:persName reg="Ursus Greco f. Nicolai">Urso Greco</cei:persName> filius 
+                            <cei:persName reg="Nicola, /v./ Ursus Greco f. Nicolai">Nicola</cei:persName> 
+                        </cei:intitulatio>
+                        <cei:datatio type="Datatio topica">qui sum in civitate
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName>
+                        </cei:datatio>
+                        <cei:lb/>clarefacio quoniam presentja nobiliorum hominum subscriptorum testium voluntarie per hanc 
+                        <cei:lb/>cartam venditjonis 
+                        <cei:dispositio>vendidi ac per fustem tradidi</cei:dispositio> ad domno
+                        <cei:persName reg="Ubo, abbas et custos S. Petri Tramutule">Ubo</cei:persName> cleric<cei:expan>us</cei:expan> et monacus
+                        <cei:corr sic="A q(ue)">qui</cei:corr> est custos hec<cei:lb/>clesie
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">beati Petri apostoli de Tramutula</cei:placeName>, recipiente cum eo abbocato suo
+                        <cei:persName reg="Roggerius m. f. Viti iudicis">Roggerio</cei:persName> milite filio 
+                        <cei:persName reg="Vitus, /v./ Roggerius m. f. Viti iudicis">Bito</cei:persName> iudici cun<cei:lb/>ctum quantum emtum habui ad predicta 
+                        <cei:placeName reg="Tramutula">Tramutula</cei:placeName>
+                        <cei:sic>da</cei:sic> 
+                        <cei:persName reg="Maraldus f. Dalfii">Maraldus</cei:persName> fi<cei:expan>lio</cei:expan>
+                        <cei:persName reg="Dalfius, /v./ Maraldus f. Dalfii">Dalfio</cei:persName> de terris et de nuci<cei:lb/>bus et de castaneis et de omnibus, hoc est de quantum pertinuit ad predictum
+                        <cei:persName reg="Maraldus f. Dalfii">Maraldo</cei:persName> inclita medietate ad 
+                        <cei:lb/>predicta 
+                        <cei:placeName reg="Tramutula">Tramutula</cei:placeName> ut habeat predicta sancta hecclesia et domno 
+                        <cei:persName reg="Ubo, abbas et custos S. Petri Tramutule">Ubo</cei:persName> et suos posteriores ipsam predictam 
+                        <cei:lb/>medietatem cum omnia inter se habentem et possidentem sine contrarietate mea meorumque heredu omni futu<cei:lb/>ro tempore et pro confirmatjone hanc meam venditjonem recepi a domno 
+                        <cei:persName reg="Ubo, abbas et custos S. Petri Tramutule">Ubo</cei:persName> predic<cei:expan>to</cei:expan> mili<cei:expan>te</cei:expan> quinque de bonis 
+                        <cei:lb/>ram<cei:expan>esinos</cei:expan>. Insuper guadiam ei dedi recipiente cum eo predicto abbocato suo et mediatores ei posui 
+                        <cei:persName reg="Petrus f. Malo">Petronus</cei:persName> 
+                        <cei:lb/>fi<cei:expan>lius</cei:expan>
+                        <cei:persName reg="Malus, /v./ Petrus f. Malo">Malo</cei:persName> presbiter et 
+                        <cei:persName reg="Rogerius f. Rao">Roggerius</cei:persName> fi<cei:expan>lius</cei:expan>
+                        <cei:persName reg="Rao, /v./ Rogerius f. Rao">Rao</cei:persName> ut iam nec ego nec mei heredes ad predicta hecclesia 
+                        <cei:lb/>et ad domno 
+                        <cei:persName reg="Ubo, abbas et custos S. Petri Tramutule">Ubo</cei:persName> vel ad suos posteriores super eos exinde veniamus et si aliquis homo super eos 
+                        <cei:lb/>exinde venerit, <cei:corr type="/ripetuto/">ego et mei heredes</cei:corr> defendamus illas eis ab omni persona 
+                        <cei:lb/>quam et a pars morginc<cei:expan>apitis</cei:expan> mee uxoris, et si hec omnia superius dicta disrumpere aut retr<cei:damage>o</cei:damage><cei:lb/>are quesierimus aut defendere noluerimus aut non potuerimus ut per legem vel per cau<cei:lb/>satjonem cum eis exinde venerimus per quodlibet ingenium, obligo me et meos heredes dar<cei:lb/>e eis vel ad eius posteriores solidos viginti aur<cei:expan>eos</cei:expan> pro predicta hecclesia et in puplico similiter et per in<cei:lb/>vitis taceamus, distric<cei:expan>tos</cei:expan> ipsos mediatores qui licentjam tribuerunt pingerari se et illorum heredum per omnia 
+                        <cei:lb/>pingera illorum legitima et inlegitima sine cal<cei:expan>umnia</cei:expan> et appellatjone donec quod prelegitur inviti impleamus. 
+                        <cei:setPhrase type="Declaratio notarii">Et 
+                            <cei:lb/>hunc brebe venditjonis scripsit 
+                            <cei:persName reg="Rainaldus iud. et not. f. Piperi not.">Raynaldus</cei:persName> notarius qui interfuisse se confitetur; 
+                        </cei:setPhrase> mense et indictjone prelatis.
+                        <cei:lb/><cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego 
+                            <cei:persName reg="Riccardus iud.  et archidiaconus">Riccardus</cei:persName> iud<cei:expan>ex</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Ildemannus not., iud. et diaconus">Ild<cei:expan>e</cei:expan>mannus</cei:persName> not<cei:expan>arius</cei:expan>.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName/>
+                <cei:placeName/>
+                <cei:index/>
+                <cei:divNotes>
+                    <cei:note/>
+                </cei:divNotes>
+                <cei:class/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

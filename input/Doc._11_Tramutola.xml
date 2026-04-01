@@ -1,0 +1,140 @@
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>11</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Offersio et obligatio</cei:class>
+                    <cei:abstract>Per la salvezza della propria anima e di quelle dei suoi genitori il marsicano Pietro Zup<cei:expan>re</cei:expan> dona alla chiesa di S. Pietro di Tramutola, per il tramite del marsicano Giovanni, monaco cavense, ciò che possiede nella valle di Tramutola.</cei:abstract>
+                    <cei:issued>
+                        <cei:date>1148 maggio</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XXVII 8</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition>
+                            </cei:condition>
+                            <cei:dimensions>mm 325x270</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Ildemannus</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum> Sul verso, mano sec. XII: «Off<cei:expan>ersio</cei:expan> Petri Zup<cei:expan>re</cei:expan> in ecclesia sancti Petri Tramutule de rebus in valle»; mano sec. XIII: «Sancti Petri de Tramutula»; mano secc. XV-XVI: «Bonum est»; mano Venereo: «Oblatio totius portionis terrarum per totam vallem Tramutulae cum pomiferis arboribus et impomiferis, quae pertinent ad Petrum Suppum de civitate Marsici ab eo facta ecclesiae sancti Petri Tramutulae. Anno 1148», «Arca 79, n° 23»; mano di età moderna: «M»; mano secc. XVII-XVIII: «1148»; mano sec. XIX: «Arca XXVII n° 8».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl></cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Visentin 2015, p. 130.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>Il notaio Ildemanno, a differenza degli altri documenti, adopera occasionalmente la 
+                            <cei:quote>c</cei:quote> crestata. Le sottoscrizioni sono autografe. 
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno ab incarnatjone eiusdem millesimo C quadragesimo octavo, mense madio, indictjone undecima.</cei:datatio> 
+                        <cei:intitulatio>Ego quidem 
+                            <cei:lb/><cei:persName reg="Petrus Zupre f. qd. ...">Petrus Zup<cei:expan>re</cei:expan></cei:persName> filius quondam 
+                            <cei:space extent="/circa nove lettere/"/>de civitate 
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName> 
+                        </cei:intitulatio> declaro quoniam presentja<cei:expan>m</cei:expan> bonorum hominum 
+                        <cei:sic>subsriptorum</cei:sic> testium bona mea voluntate 
+                        <cei:lb/>puraque 
+                        <cei:sic>consientja</cei:sic> pro salute anim<cei:expan>a</cei:expan> m<cei:expan>e</cei:expan>a meorumque defunctorum parentum 
+                        <cei:dispositio>obtuli ac per fustem tradidi</cei:dispositio> ad ecclesie 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri Tramutule</cei:placeName> 
+                        <cei:lb/>recipiente oblatjonem meam domni 
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohannis</cei:persName>
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> 
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">Cavensis</cei:placeName> monachi quantum michi pertinuit de terris per totam vallem eandem
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> cum 
+                        <cei:lb/>pomiferis arboribus et inpomiferis omnibus ibi michi pertinentibus per universam predictam vallem, recipiente hanc offertjonem 
+                        <cei:sic>huna</cei:sic> cum 
+                        <cei:persName reg="Rogerius f. Viti">Rogerio</cei:persName> de domno 
+                        <cei:lb/> 
+                        <cei:persName reg="Vitus, /v./ Rogerius f. Viti">Vito</cei:persName> advocato suo ut a modo in antea sint in potestate et dominio eidem sancte matris ecclesie cum transitis et exitis ad facien<cei:lb/>dum exinde omnia que voluerint sine requisitjone et 
+                        <cei:corr sic="A cotrariet(ate)">contrarietate</cei:corr> mea meorumque heredum omni futuro tempore. Unde eidem domno 
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohanni</cei:persName> guadia dedi cum 
+                        <cei:lb/>predicto suo advocato recipiente et mediatorem 
+                        <cei:corr type="/con/ p- /corr. da/ s">posui</cei:corr> scilicet 
+                        <cei:persName reg="Marsicanus Vicecomes f. Petri">Marsicanum Vicecomitem</cei:persName> filium 
+                        <cei:persName reg="Petrus, /v./ Marsicanus vicecomes f. Patri">Petri</cei:persName> de civitate predicta ut iam nec ego nec mei heredes 
+                        <cei:lb/>veniamus exinde super eandem matrem ecclesiam ullo modo vel ingenio. Et si aliquis homo inde de hac oblatjone super eandem iamdictam ecclesiam 
+                        <cei:lb/>venerit, ego vel mei heredes defendamus ipsam oblatjonem eidem ecclesie ab omnibus hominibus et si hec omnia predicta disrumpere aut retroare quesie<cei:lb/>rimus aut defensare noluerimus et per causatjonem vel legem intraverimus exinde cum aliquo ho<cei:expan>mine</cei:expan> de eandem ecclesie rectore, obligo me et 
+                        <cei:lb/>meis heredibus componere 
+                        <cei:corr type="/segue/ ma /inchiostrato/">eidem</cei:corr> matris ecclesie quadraginta aureos solidos bonos regales, similiter in puplico, et que preleguntur adimpleamus
+                        <cei:lb/>invitis, districto ipso mediatore qui licentjam tribuit pignerandi se et suis heredibus per omnia pingera illorum, legitima quam et inlegitima, sine cal<cei:expan>umnia</cei:expan> et appellatjone 
+                        <cei:lb/>donec quod supra legitur inviti impleamus. 
+                        <cei:setPhrase type="Declaratio notarii">Et hunc brebe offertjonis et obligatjonis scripsit 
+                            <cei:persName reg="Ildemannus not., iud. et diaconus">Ildemannus</cei:persName> notarius qui interfuisse se confitetur; 
+                        </cei:setPhrase> 
+                        <cei:lb/>mense et indictjone prelatis.
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego 
+                            <cei:persName reg="Riccardus iud.  et archidiaconus">Riccardus</cei:persName> iud<cei:expan>ex</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName reg="Iohannes not. f. Bisantii iud.">Ioh<cei:expan>anne</cei:expan>s</cei:persName> fi<cei:expan>lius</cei:expan> 
+                            <cei:persName reg="Bisantius iud., /v./ Iohannes not. f. Bisantii iud.">Bisantii</cei:persName> iudicis.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+
+
+
+
+
+
+

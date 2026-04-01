@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>19</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Confirmatio et concessio</cei:class>
+                    <cei:abstract>Silvestro, conte di Marsico, per la salvezza dell’anima di suo padre Goffredo, dietro consiglio di Giovanni II, vescovo di Marsico, accoglie le richieste di Marino, abate cavense, e del marsicano Giovanni, monaco e cappellano del monastero di Cava, che 
+                        <cei:quote>a fundamento incepit</cei:quote> il monastero di S. Pietro di Tramutola e 
+                        <cei:quote>fere ad effectum usque perduxit</cei:quote>, confermando al monastero di Tramutola tutte le donazioni e gli acquisti che aveva ricevuto e il relativo casale. In aggiunta accoglie le frequenti richieste di Giovanni, donando al monastero di Tramutola delle terre ai piedi del colle Monticello. Concede poi diritti di pascolo nelle terre di Marsico agli animali del monastero, ad eccezione del ghiandatico.
+                    </cei:abstract>
+                    <cei:issued>
+                        <cei:date value="11531199"/>
+                    </cei:issued>
+                    <cei:witListPar>
+                        <cei:witness n="A">
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>H 17</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p/>
+                            </cei:decoDesc>
+                            <cei:condition> 
+                            </cei:condition>
+                            <cei:dimensions>mm 630x495</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Lambertus</cei:persName>
+                            </cei:notariusDesc>
+                            <cei:sealDesc>
+                                <cei:seal>
+                                    <cei:sealDimensions/>
+                                    <cei:sealMaterial/>
+                                    <cei:sealCondition>Deperdito. Nella parte inferiore della pergamena sono presenti due ordini di piccoli tagli disposti in posizione trapezioidale (due sopra e cinque sotto), attraverso i quali sarebbe dovuta passare la cordicella del sigillo. Tuttavia, la totale mancanza di usura e, materialmente, dello spazio per far passare il filo, lascia pensare che essi non abbiano mai svolto questa funzione. Si può ipotizzare che i tagli siano stati fatti, ma che poi non fu più apposto il sigillo oppure che sia un intervento seriore, fatto dopo la perdita del sigillo e la rifilatura della plica. Questa seconda ipotesi sembra più probabile ed è in linea con quanto accade anche in altri documenti conservati nell’archivio cavense e qui editi (cfr. docc. 5, 21).</cei:sealCondition>
+                                    <cei:legend/>
+                                </cei:seal>
+                            </cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota/>
+                        <cei:rubrum> Sul verso, mano Venereo: «Diploma Silvestri comitis Marsici, de confirmatione casalis Tramutule cum omnimoda iurisdictione et omnium donationum concessionumque et oblationum de eo; de donatione quoque possessionum in eius pertinentiis cum aquis, silvis et pascuis et iure pascuandi et aquandi in toto Marsici territorio. Anno Domini 1154, mense novembris, 2a indictione», «Armario I°, H, n° 2»; mano secc. XVIII-XIX: «Armario M, 16» con il numerale depennato da una mano che aggiunge «17»; mano sec. XIX: «Armario H, n° 17».</cei:rubrum>
+                    </cei:witness>
+                        <cei:witness n="B">
+                            <cei:traditioForm>Copia autentica (1464 aprile 23)</cei:traditioForm>
+                            <cei:archIdentifier>
+                                <cei:country>Italia</cei:country>,
+                                <cei:settlement>Cava de' Tirreni</cei:settlement>,
+                                <cei:arch>AC</cei:arch>,
+                                <cei:idno>Q 6</cei:idno>
+                            </cei:archIdentifier>
+                        </cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Ughelli-Coleti, coll. 499-500 (con data 1152 novembre).</cei:bibl>
+                            <cei:bibl>Mattei Cerasoli 1943, pp. 108-111, n. 14 (con data 1152 novembre/dicembre e segnatura errata).</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Starace, pp. 4, 39-40 (con data 1154 novembre).</cei:bibl>
+                            <cei:bibl>Di Meo, X, p. 192.</cei:bibl>
+                            <cei:bibl>Cuozzo 1984, p. 160.</cei:bibl>
+                            <cei:bibl>Houben 1996, p. 127.</cei:bibl>
+                            <cei:bibl>Pellettieri, p. 199.</cei:bibl>
+                            <cei:bibl>Houben 2006, p. 379.</cei:bibl>
+                            <cei:bibl>Visentin 2014, pp. 29-31 (con data 1154 novembre).</cei:bibl>
+                            <cei:bibl>Visentin 2015, p. 132 (con data 1154 novembre).</cei:bibl>
+                            <cei:bibl>Fernández-Aceves, pp. 45-46 (con data 1154 dicembre).</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>In questo documento la scrittura del notaio Lamberto, una minuscola normanna, presenta aste ascendenti più sviluppate (l’interlinea è decisamente maggiore); i blocchi grafici sono più distanziati e i 
+                            <cei:quote>tituli plani</cei:quote> hanno una piccola curvatura al centro. Le sottoscrizioni in prima persona sono autografe, così come anche, forse, quella del vescovo (la mano sembra la stessa del doc. 5 e di una donazione del 1134:Archivio del Monumento nazionale di Grottaferrata, Fondo Pergamene, 2). Di Meo dubita dell’autenticità del documento per l’assenza dell’anno di regno e per l’uso di “titoli speciosi, ma non usati” per il re Ruggero. Tuttavia in nessuno dei tre documenti il notaio Lamberto adopera l’anno di regno, e il termine 
+                            <cei:quote>triumfatore</cei:quote> nella 
+                            <cei:quote>datatio</cei:quote> in riferimento a Ruggero II (adoperato anche nel doc. 19) è ben attestato (cfr. A. Kehr, pp. 246-247, nota 3). Un’altra motivazione di Di Meo è la presenza di molti testimoni, “quasi tutti ignoti”, mentre invece un confronto con le altre sottoscrizioni di Iaspido e del giudice Giovanni dimostra l’autografia delle sottoscrizioni; inoltre, 
+                            <cei:quote>Rogerius filius Duranti</cei:quote> e Oddone, abate di S. Stefano di Marsico, sono attestati anche in un documento del conte per la Ss. Trinità di Venosa (Ménager 1959, p. 111, n. 39). Per un errore di lettura Ughelli data il documento al 1152. Gli elementi della datazione dimostrano che è stato adoperato lo stile bizantino. La data proposta da Visentin (novembre 1154) non è condivisibile, anche perchè Ruggero II era già morto a febbraio dello stesso anno; nello stesso errore era caduto anche Starace, che per questo motivo dichiara falso il documento. Mattei Cerasoli, invece, pur sostenendo che l’anno dovrebbe esse il 1153, data comunque il documento al dicembre 1154 (nota 
+                            <cei:quote>e</cei:quote>, da cui l’errore di Fernández-Aceves).
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio verbale"> 
+                            <cei:hi rend="/lettere maiuscole con tratti raddoppiati e nessi/">In nomine Dei eterni et salvatoris nostri Iesu Christi.</cei:hi>
+                        </cei:invocatio>                      
+                        <cei:datatio type="Datatio cronica">
+                            <cei:hi rend="/lettere maiuscole con tratti raddoppiati e nessi/">Anno incarnationis</cei:hi> 
+                            <cei:lb/>eiusdem millesimo centesimo quinquagesimo quarto, mense novembrio, indictione secunda, regnante domno nostro 
+                            <cei:persName reg="Rogerius II rex Sicilie, ducatus Apulie et principatus Capue">Rogerio</cei:persName> piissimo ac semper triumfatore magnifico rege Sicilie, ducatus Apulie atque principatus Capue una cum eo re<cei:lb/>gnante
+                            <cei:persName reg="Guillelmus I rex Sicilie, ducatus Apulie et principatus Capue">W<cei:expan>illelmo</cei:expan></cei:persName> eius filio domno nostro rege glorioso.
+                        </cei:datatio> 
+                        <cei:arenga>Si iuste postulatio voluntatis omnibus Dei cultoribus locisque venerabilibus studio debet prosequente compleri, ille precipue qui pro peccatis nostris et offensionibus vigiliis et orationibus Dei misericordiam
+                            <cei:lb/>incessanter invocat pie postulationis effectum iugiter debemus impendere eorumque iustis petitionibus assensum prebere. 
+                        </cei:arenga>Tuis igitur, 
+                        <cei:persName reg="Marinus abbas eccl. Ss. Trinitatis Cave">Marine</cei:persName>, venerabilis abbas monasterii 
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis de Cava</cei:placeName> quod est constructum extra civitatem 
+                        <cei:placeName reg="Salernum">Salerni</cei:placeName> in loco ubi dicictur 
+                        <cei:placeName reg="Mitilianum">Mitilianus</cei:placeName>, 
+                        <cei:lb/>petitionibus clementius annuentes, per postulationem etiam domni 
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohannis</cei:persName> 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName>, eiusdem monasterii monachi qui v<cei:expan>idetu</cei:expan>r e<cei:expan>sse</cei:expan> cappellanus, qui etiam 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri Tramutule</cei:placeName> monasterium a fundamento incepit et fere ad effectum usque perduxit, pro domni etiam 
+                        <cei:persName reg="Rogerius I comes Sicilie">Rogerii</cei:persName> primi Sicilie comitis 
+                        <cei:lb/>anime salute magnifice memorie et domni 
+                        <cei:persName reg="Goffridus I comes Ragusie, /v./ Silvester I comes Marsici et III comes Ragusie, f. Goffridi I comitis Ragusie">Goffridi</cei:persName> nostri patris ceterorumque nostrorum parentum animarum remedio et ut Deus omnipotens domni nostri magnifici regis
+                        <cei:persName reg="Rogerius II rex Sicilie, ducatus Apulie et principatus Capue">Rogerii</cei:persName> et domni 
+                        <cei:persName reg="Guillelmus I rex Sicilie, ducatus Apulie et principatus Capue">W<cei:expan>illelmi</cei:expan></cei:persName> sui filii gloriosi regis coronam confirmet et conservet et nos etiam nostros<cei:add type="sul rigo">que</cei:add> filios idem 
+                        <cei:lb/>Deus manuteneat et ad bonum finem perducat, presentis privilegii auctoritate 
+                        <cei:intitulatio>nos  
+                            <cei:persName reg="Silvester I comes Marsici et III comes Ragusie, f. Goffridi I comitis Ragusie">Silvester</cei:persName>, Dei et domni regis gratia 
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName> comes 
+                        </cei:intitulatio>
+                        <cei:dispositio>confirmantes concedimus</cei:dispositio> eidem 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri Tramutule</cei:placeName> monasterio omnes retrodonationes et oblationes, venditiones, comutationes et concessi<cei:lb/>ones a nostris predecessoribus et a bonis hominibus 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> utriusque etiam sexus et etatis illatas. Interea nos prefatus Dei gratia comes 
+                        <cei:placeName reg="Marsicum">Marsicanorum</cei:placeName>, prospicientes illud tenimentum ita modicum esse quod nequaquam eidem monasterio nec eiusdem hominibus casalis sufficere 
+                        <cei:lb/>valeret, amore Dei et nostrorum ut dictum est parentum animarum remedio et eiusdem domni 
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohannis</cei:persName> 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> densis petitionibus et magno amore, consilio etiam domni 
+                        <cei:persName reg="Iohannes II eps. Marsici sedis Grumentane">Iohannis</cei:persName> 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> episcopi necnon domni 
+                        <cei:persName reg="Oddo, abbas mon. S. Stefani Marsici">Odonis</cei:persName> 
+                        <cei:placeName reg="S. Stefanus, mon. Marsici">sancti Stefani</cei:placeName> abbatis et 
+                        <cei:persName reg="Iohannes Burdone dapifer">Iohannis Burdonis</cei:persName> nostri dapiferi et 
+                        <cei:lb/><cei:persName reg="Rogerius Durante">Rogerii Duranti</cei:persName> et aliorum bonorum hominum 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> quorum nomina subter leguntur, addimus has terras predicto monasterio sicut inferius per designata loca et fines presens privilegium determinat et demonstrat. A prima parte videlicet a fine terre
+                        <cei:persName reg="Maioranus">Maiorani</cei:persName> 
+                        <cei:lb/>sicut ascendit per rai de 
+                        <cei:placeName reg="Puteolo, rai de">Puteolo</cei:placeName> per finem eiusdem 
+                        <cei:persName reg="Maioranus">Maiorani</cei:persName> usque ad decollam pedis 
+                        <cei:placeName reg="Monticellus">Monticelli</cei:placeName>, sicut exinde ascendit usque ad arbores et vadit per eundem pedem 
+                        <cei:placeName reg="Monticellus">Monticelli</cei:placeName> cum totis terris laborabilibus et inlaborabilibus que sunt per iamdictum pedem 
+                        <cei:placeName reg="Monticellus">Mon<cei:lb/>ticelli</cei:placeName> usque ad caput vinearum prefati monasterii cum terra laboratoria que est ibidem; ab eodem vero loco per directum sicut itur usque ad
+                        <cei:placeName reg="Sancta Palumba">Sanctam Palumbam</cei:placeName> cum totis terris laborabilibus que sunt a iamdictis vineis ab oriente et meridie, iterum usque ad 
+                        <cei:lb/><cei:placeName reg="Sancta Palumba">Sanctam Palumbam</cei:placeName> et exinde revolvit per divisam que est inter tenimenta 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> et nove 
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> et ascendit per antica<cei:expan>m</cei:expan> et vadit per crepidinem sicut cruces per ordinem in arboribus facte sunt usque in ripam in qua causa iudicii facta est crux et revolvit 
+                        <cei:lb/>per ipsam crepidinem recte factis in arboribus crucibus usque in cripta de 
+                        <cei:placeName reg="Melito, cripta de">Melito</cei:placeName> et ab ipsa cripta sicut ascendit recte usque in capite montis sicut aqua descendit a parte monasterii supradicti et vadit per caput veteris
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> et descen<cei:lb/>dit in capite rivi qui 
+                        <cei:placeName reg="Busentinus fl.">Busentinus</cei:placeName> dicitur et sicut revolvit per crepidinem que est supra monasterium sicut cruces signate sunt et redit in via que exit de monasterio et vadit per eandem viam quam domnus
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohannes</cei:persName> 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> fecit usque ad priorem finem predicte terre 
+                        <cei:lb/><cei:persName reg="Maioranus">Maiorani</cei:persName>. Infra hos autem fines concedimus eidem monasterio easdem terras cum introitibus et exitibus suis et cum omnibus infra se habentibus et continentibus, aquis, silvis et pascuis cum arboribus fructiferis et non fructiferis libere et quiete ad habendum
+                        <cei:lb/>et possidendum et quicquid voluerit faciendum absque ulla nostri aut heredum nostrorum vel hominum seu successorum molestia et contarietate.
+                        <cei:dispositio>Confirmamus</cei:dispositio> insuper casalem ipsum 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri</cei:placeName> quod domnus 
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohannes</cei:persName> 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> fecit hospitari. Ita ut omnes qui modo ibidem
+                        <cei:app>
+                            <cei:lem wit="#A">abitant</cei:lem>
+                            <cei:rdg wit="#B">habitant</cei:rdg>
+                        </cei:app> aut ab 
+                        <cei:lb/>isto die in antea
+                        <cei:app>
+                            <cei:lem wit="#A">abitaverint</cei:lem>
+                            <cei:rdg wit="#B">habitaverant</cei:rdg>
+                        </cei:app>liberi et quieti sine molestia nostri vel heredum nostrorum vel hominum seu successorum maneant et habitent 
+                        <cei:corr type="/su rasura/">sicut videlicet ceteri monasteriorum homines libere manent et <cei:damage>a</cei:damage>bsolute</cei:corr> et modis omnibus iamdicto monasterio precep<cei:lb/>tis tantummodo subiaceant. Ea videlicet ratione, ut tu prefatus domnus 
+                        <cei:persName>Marinus</cei:persName> 
+                        <cei:placeName>sancte Trinitatis de Cava</cei:placeName> venerabilis abbas neque tui successores nec quisquam de vestris prioribus, monachis vel cuiuslibet ordinis de nostris propriis hominibus civitatum nostrarum 
+                        <cei:lb/>quas nunc habemus vel habituri sumus potestatem ad habitandum in eodem casali recolligere sine nostri licentia vel iussione non habeatis. Animalibus denique omnibus predicti monasterii 
+                        <cei:placeName>sancti Petri</cei:placeName> videlicet et animalibus hominum casalis eiusdem in nostra 
+                        <cei:lb/>terra 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName> pascua et aquas 
+                        <cei:app>
+                            <cei:lem wit="#A">absque concedimus dampno</cei:lem>
+                            <cei:rdg wit="#B">absque dampno concedimus</cei:rdg>
+                        </cei:app>exceptis glandibus. Si qua vero, quod absit, magna humilisve persona huius nostre concessionis et confirmationis paginam aliquo modo violare vel interrumpere presumpserit, sciat se composituram 
+                        <cei:lb/>auri libras triginta, medietatem regali curie et aliam medietatem iamdicto monasterio 
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis</cei:placeName>, penaque persoluta, presens privilegium pristinum robur optineat. Et ut diebus futuris omnibus hec nostra donationis concessio tibi domne 
+                        <cei:lb/><cei:persName reg="Marinus abbas eccl. Ss. Trinitatis Cave">Marine</cei:persName> 
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis de Cava</cei:placeName> venerabilis abbas et tuis successoribus a nobis et heredibus nostris et successoribus firma permaneat, hoc privilegium per manus 
+                        <cei:persName reg="Lambertus not.">Lamberti</cei:persName> nostri notarii scribi nostrique tiparii plumbea bulla insigniri precepimus et crucis 
+                        <cei:lb/>vivifice signum manu propria subter fecimus. 
+                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>Ubi vero inter lineas disturbatum est in loco qui dicit “sicut videlicet ceteri monasteriorum homines libere manent et absolute” non noceat. 
+                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio comitis">+ Domni 
+                            <cei:persName reg="Silvester I comes Marsici et III comes Ragusie, f. Goffridi I comitis Ragusie">Silvestri</cei:persName> Dei gratia 
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName> comitis manus signum quod huius privilegii extat firmamentum.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus domni 
+                            <cei:persName reg="Alexander dominus Marsici Veteris, f. Goffridi et Magalde">Alexandri</cei:persName> 
+                            <cei:placeName reg="Marsicum Vetus">Marsici Veteris</cei:placeName> qui interfuit. 
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Iohannes Burdone dapifer">Iohannis Burdonis</cei:persName> domni comitis dapiferi. 
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Rogerius Durante">Rogerii Duranti</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Goffridus Salvaticus">Goffridi Salvatici</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Guillelmus Guiscardus">Willelmi Guiscardi</cei:persName>. 
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus  
+                            <cei:persName reg="Cancrus">Cancri</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Goffridus f. Gualterii">Goffridi</cei:persName> filii 
+                            <cei:persName reg="Gualterius, /v./ Goffridus f. Gualterii">Gualterii</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Simeon Mancus f. Sici Manci">Simeonis Manci</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Tancredus fr. Ionocari">
+                                <cei:app>
+                                    <cei:lem wit="#A">Tangredi</cei:lem>
+                                    <cei:rdg wit="#B">Tanchredi</cei:rdg>
+                                </cei:app>
+                            </cei:persName>fratris
+                            <cei:persName reg="Ionocarus, /v./ Tancredus fr. Ionocari">Ionocari</cei:persName>
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">
+                            <cei:app>
+                                <cei:lem wit="#A">+ 
+                                    <cei:persName reg="Ιωαννης νοτ.">Ιω<cei:expan>αννης</cei:expan></cei:persName> νοτ<cei:expan>αριος</cei:expan> μ<cei:expan>αρτυ</cei:expan>ρ.
+                                </cei:lem>
+                                <cei:rdg wit="#B"/>
+                            </cei:app>
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Guillelmus f. Gualterii">Willelmi</cei:persName> filii
+                            <cei:persName reg="Gualterius, /v./ Guillelmus f. Gualterii">Gualterii</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Petrus Cotoneus, /v. anche/ Goffridus f. Petri Cotonei">Petri Cotonii</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Maioranus">Maiorani</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Robertus f. archidiaconi">Roberti</cei:persName> filii archidiaconi.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Signum manus 
+                            <cei:persName reg="Goffridus f. Petri Cotonei">Goffridi</cei:persName> filii 
+                            <cei:persName reg="Petrus Cotoneus, /v. anche/ Goffridus f. Petri Cotonei">Petri Cotonii</cei:persName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio episcopi">
+                            <cei:hi rend="/scrittura distintiva/">+ Ego  
+                                <cei:persName reg="Iohannes II eps. Marsici sedis Grumentane">Ioh<cei:expan>ann</cei:expan>es</cei:persName> 
+                            <cei:placeName reg="Marsicum">Marsicanus</cei:placeName> ep<cei:expan>iscopu</cei:expan>s q<cei:expan>ui</cei:expan> s<cei:expan>upra</cei:expan>.
+                            </cei:hi>
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego 
+                            <cei:persName reg="Oddo, abbas mon. S. Stefani Marsici">Oddo</cei:persName> abb<cei:expan>a</cei:expan>s
+                            <cei:placeName reg="S. Stefanus, mon. Marsici">s<cei:expan>an</cei:expan>c<cei:expan>t</cei:expan>i Stephani</cei:placeName>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ 
+                            <cei:persName reg="Iaspidus not. et iud.">Iaspidus</cei:persName>hoc totu<cei:expan>m</cei:expan> iudex p<cei:expan>ro</cei:expan>bat ordine notu<cei:expan>m</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis"> + Ego 
+                            <cei:persName reg="Iohannes not. f. Bisantii iud.">Ioh<cei:expan>anne</cei:expan>s</cei:persName> not<cei:expan>arius</cei:expan> fi<cei:expan>lius</cei:expan> 
+                            <cei:persName reg="Bisantius iud., /v./ Iohannes not. f. Bisantii iud.">Bisantii</cei:persName> iudicis.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName/>
+                <cei:placeName/>
+                <cei:index/>
+                <cei:divNotes>
+                    <cei:note/>
+                </cei:divNotes>
+                <cei:class/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

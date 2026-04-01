@@ -1,0 +1,150 @@
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bf="http://betterform.sourceforge.net/xforms">
+    <atom:author>
+        <atom:email>domenico.scarfiello@uniroma1.it</atom:email>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>sì</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Edizione a cura di Domenico Scarfiello.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Domenico Scarfiello</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno>14</cei:idno>
+                <cei:chDesc>
+                    <cei:class>Oblatio, traditio et obligatio</cei:class>
+                    <cei:abstract>Alla presenza del giudice Ruggero, Clara, figlia del marsicano Giovanni, con il consenso dei propri figli e del parente Ursone Bove, dona i beni che possiede nella valle di Tramutola al monastero di S. Pietro di Tramutola.</cei:abstract>
+                    <cei:issued>
+                        <cei:date>1148 maggio</cei:date>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:country>Italia</cei:country>, 
+                            <cei:settlement>Cava de' Tirreni</cei:settlement>, 
+                            <cei:arch>AC</cei:arch>, 
+                            <cei:idno>XXVII 6</cei:idno>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:decoDesc>
+                                <cei:p></cei:p>
+                            </cei:decoDesc>
+                            <cei:condition> 
+                            </cei:condition>
+                            <cei:dimensions>mm 465x225</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>
+                                <cei:persName>Iohannes</cei:persName>
+                            </cei:notariusDesc>
+                        </cei:auth>
+                        <cei:nota></cei:nota>
+                        <cei:rubrum> Sul verso, mano sec. XII: «Carta sancti Petri de Tramutula. Off(ersio) Clare»; mano Venereo: «Oblatio omnium terrarum et arborum pertinentium ad Claram filiam Iohannis de civitate Marsici per totam vallem Tramutulae ab  ea facta ecclesiae sancti Petri de Tramutula. Anno 1148», «Arca 78, n° 54»; mano secc. XVII-XVIII: «1148»; mano sec. XIX: «Arca XXVII, n° 6».</cei:rubrum>
+                    </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mattei Cerasoli 1943, p. 104-105, n. 11.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Visentin 2015, p. 130.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>Le sottoscrizioni sono entrambe autografe.
+                        </cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>lat.</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:pTenor>
+                        <cei:invocatio type="Invocatio simbolica">+</cei:invocatio> 
+                        <cei:invocatio type="Invocatio verbale">In nomine domini nostri Iesu Christi.</cei:invocatio>
+                        <cei:datatio type="Datatio cronica">Anno incarnatjonis eiusdem millesimo centesimo quadragesimo octavo, mense
+                            <cei:lb/>madii, indictjone undecima.  
+                        </cei:datatio> 
+                        <cei:intitulatio> Ego 
+                            <cei:persName reg="Clara f. Iohannis Marsici, monachus cavensis et eps. Marsici">Clara</cei:persName> filia 
+                            <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohannis</cei:persName> 
+                            <cei:placeName reg="Marsicum">Marsici</cei:placeName>,
+                        </cei:intitulatio>audiens quod similiter res  
+                        <cei:lb/>suas vendere, donare vel a se modo quolibet alienare voluerit, minime facere posse nisi presentja  
+                        <cei:lb/>iudicis et parentum notitja, igitur ego prefata mulier ivi ante presentjam 
+                        <cei:persName reg="Rogerius iud.">Rog<cei:expan>erii</cei:expan></cei:persName> iudicis aliorumque bonorum 
+                        <cei:lb/>hominum subscriptorum testium una cum ambobus filiis meis 
+                        <cei:persName reg="Ursackus f. Clare, /v./ Clara f. Iohannis Marsici, monachus cavensis et eps. Marsici">Ursacko</cei:persName> et 
+                        <cei:persName reg="Rogerius f. Clare, /v./ Clara f. Iohannis Marsici, monachus cavensis et eps. Marsici">Rogerio</cei:persName> et
+                        <cei:persName reg="Ursus Bos">Ursone Bove</cei:persName> parente meo 
+                        <cei:lb/>eidem iudici dicens: «Domne iudex, remedio anime mee meorumque 
+                        <cei:corr sic="A d(e)fucto(rum)">defunctorum</cei:corr> parentum animarum redemptjone 
+                        <cei:lb/>offerire vellem ecclesie 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri Tramutule</cei:placeName> quantum mihi pertinuit de terris et arboribus fructiferis et infructiferis 
+                        <cei:lb/>per totam vallem 
+                        <cei:placeName reg="Tramutula">Tramutule<cei:expan>m</cei:expan></cei:placeName>», qui, cum audivit me talia dicentem, dixit: «Vide ne monitis seu violentja cuius
+                        <cei:lb/>libet hominis hoc facias»; ad quem ego ita affata sum: «Nequaquam domne, set bona mea voluntate hoc facere 
+                        <cei:lb/><cei:corr type="/segue una lettera depennata e parz. erasa/">volo</cei:corr>». Quod cum ipse veraciter agnovit, dedit mihi hoc peragendi licentjam. Mox eiusdem ante presentjam 
+                        <cei:lb/>iudicis et subscriptorum 
+                        <cei:dispositio>obtuli ac per fustem tradidi</cei:dispositio> una cum filiis meis prescriptis et 
+                        <cei:persName reg="Ursus Bos">Ursone</cei:persName> predicto 
+                        <cei:lb/>iamdicte 
+                        <cei:placeName reg="S. Petrus, eccl. Tramutule">sancti Petri</cei:placeName> ecclesie totum quod mihi pertinere videtur in valle 
+                        <cei:placeName reg="Tramutula">Tramutule</cei:placeName> sicut legitur supra cum trasitis et 
+                        <cei:lb/>exitis suis et cum omnibus infra se abentibus et possidentibus sine mea et heredum meorum contrarietate et requisitjone
+                        <cei:lb/>omni futuro tempore hanc eandem oblatjonem et baculi traditjonem domno 
+                        <cei:persName reg="Iohannes Marsici, monachus Ss. Trinitatis Cave, /v./ Iohannes III eps. Marsici">Iohanne</cei:persName> 
+                        <cei:placeName reg="Marsicum">Marsici</cei:placeName>, 
+                        <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis de<cei:lb/>Cava</cei:placeName> monacho cum advocato suo 
+                        <cei:persName reg="Rogerius f. Riccardi archidiaconi">Roggerio</cei:persName> domni 
+                        <cei:persName reg="Riccardus archidiaconus, /v./ Rogerius f. Riccardi archidiaconi">Riccardi</cei:persName> recipiente, positis inde fideiussoribus 
+                        <cei:persName reg="Guillelmo f. Gualterii">Guilelmo</cei:persName> filio 
+                        <cei:lb/><cei:persName reg="Gualterius, /v./ Guillelmo f. Gualterii">Gualterii</cei:persName> et 
+                        <cei:persName reg="Marsicanus Vicecomes">Marsicano Vicecomite</cei:persName> de predicta civitate. Ut iam nec ego nec mei heredes super ipsam sanctam 
+                        <cei:lb/>ecclesiam prenominatam exinde veniamus nec nos nec per a nobis personas suppositas et si aliquis homo super eandem 
+                        <cei:lb/>ecclesiam venerit, ego vel heredes mei defendamus ipsi ecclesie ab omni umana persona. Quod si taliter facere 
+                        <cei:lb/>noluerimus vel nequiverimus et istam nostram oblatjonem disrumpere vel retroare quesierimus quolibet modo 
+                        <cei:lb/>vel ingenio, obligo me et meos heredes componere predicte ecclesie solidos regales viginti et in puplico 
+                        <cei:lb/>similiter, ipsis districtis fideiussoribus licentjam tribuentibus pignarandi se et suos heredes per eorum omnia 
+                        <cei:lb/>pignara legitima et inlegitima sine calumnia et appellatjone donec quod prelegitur nobis impleatur invitis. 
+                        <cei:lb/><cei:setPhrase type="Declaratio notarii">Et hunc brebe oblatjonis, traditjonis et obligatjonis scripsit 
+                            <cei:persName reg="Iohannes not. f. Bisantii iud.">Iohannes</cei:persName> notarius qui interfuisse se confitetur;
+                        </cei:setPhrase> mense et indictjone prelatis. 
+                        <cei:lb/>
+                        <cei:notariusSign/>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio iudicis">+ Ego 
+                            <cei:persName reg="Riccardus iud. et archidiaconus">Riccardus</cei:persName> iud<cei:expan>ex</cei:expan>.
+                        </cei:subscriptio>
+                        <cei:lb/>
+                        <cei:subscriptio type="Subscriptio testis">+ Ego
+                            <cei:persName reg="Ildemannus not., iud. et diaconus">Ild<cei:expan>e</cei:expan>mann<cei:expan>us</cei:expan></cei:persName> iud<cei:expan>ex</cei:expan>.
+                        </cei:subscriptio>
+                    </cei:pTenor>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName></cei:persName>
+                <cei:placeName></cei:placeName>
+                <cei:index></cei:index>
+                <cei:divNotes>
+                    <cei:note></cei:note>
+                </cei:divNotes>
+                <cei:class></cei:class>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
+
+
+
+
+
+
+
+
+
+
