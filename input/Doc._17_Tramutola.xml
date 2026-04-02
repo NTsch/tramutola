@@ -247,7 +247,7 @@
                         <cei:subscriptio type="Subscriptio testis">
                             <cei:app>
                                 <cei:lem wit="#A">+ 
-                                    <cei:persName reg="Ιωαννης νοτ.">Ιω<cei:expan>αννης</cei:expan></cei:persName> νοτ<cei:expan>αριος</cei:expan> μ<cei:expan>αρτυ</cei:expan>ρ.
+                                    <cei:persName reg="Ιωαννης νοτ.">Ιω<cei:expan>αννης</cei:expan> νοτ<cei:expan>αριος</cei:expan> μ<cei:expan>αρτυ</cei:expan>ρ.</cei:persName>
                                 </cei:lem>
                                 <cei:rdg wit="#B"/>
                             </cei:app>

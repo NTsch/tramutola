@@ -131,12 +131,12 @@
                         <cei:persName reg="Rogerius II rex Sicilie, ducatus Apulie et principatus Capue">Rogerii</cei:persName> bone memorie et pro sanctissimi 
                         <cei:persName reg="Guillelmus I rex Sicilie, ducatus Apulie et principatus Capue">W<cei:expan>illelmi</cei:expan></cei:persName> regis et eius sobolis vita 
                         <cei:lb/>servanda ut nos etiam iamdictum 
-                        <cei:persName reg="Silvester I comes Marsici et III comes Ragusie, f. Goffridi I comitis Ragusie">Silvestrum</cei:persName> 
-                        <cei:app>
+                        <cei:persName reg="Silvester I comes Marsici et III comes Ragusie, f. Goffridi I comitis Ragusie">Silvestrum
+                            <cei:placeName><cei:app>
                             <cei:lem wit="#A"> Marsic<cei:expan>i</cei:expan></cei:lem>
                             <cei:rdg wit="#B"/>
-                            <cei:rdg wit="#B'"><cei:placeName>Marsici</cei:placeName></cei:rdg>
-                        </cei:app> comitem et nostros heredes divina dextra Dei protegat et manuteneat et id in hoc agere seculo 
+                            <cei:rdg wit="#B'">Marsici</cei:rdg>
+                        </cei:app></cei:placeName></cei:persName> comitem et nostros heredes divina dextra Dei protegat et manuteneat et id in hoc agere seculo 
                         <cei:lb/>nos doceat ut nostra anima vitam eternam obtineat pro omnium 
                         <cei:app>
                             <cei:lem wit="#A">etiam</cei:lem>
