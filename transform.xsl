@@ -67,6 +67,7 @@
                 </xsl:variable>
                 <xsl:value-of select="normalize-space(concat($tokens[1], $month, $day))"/>
             </xsl:attribute>
+            <xsl:apply-templates/>
         </cei:date>
     </xsl:template>
     

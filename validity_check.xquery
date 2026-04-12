@@ -11,7 +11,7 @@ declare namespace cei = "http://www.monasterium.net/NS/cei";
 (:let $charter := doc(xmldb:encode('/db/mom-data/metadata.charter.saved/tag:www.monasterium.net,2011:#charter#AT-StiAL#LambachOSB#1430_X_29.xml'))
 :)
 (:validate collection:)
-for $charter in collection('/db/niklas/import/tramutola')
+for $charter in collection('/db/niklas/import/tramutola')[atom:entry]
 
 let $xml := <cei:cei>{$charter/atom:entry/atom:content/cei:text[@type='charter']}</cei:cei>
 

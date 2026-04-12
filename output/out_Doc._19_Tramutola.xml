@@ -23,7 +23,7 @@
                     <cei:class>Concessio</cei:class>
                     <cei:abstract>Per la salvezza delle anime dei propri genitori e per quelle di Ruggero, Ruggero II e Guglielmo I, Silvestro, conte di Marsico, dietro richiesta di Giovanni, di Marsico, monaco cavense, consente al monastero di S. Pietro di Tramutola, dipendenza della Ss. Trinità di Cava, e agli uomini del suo casale la libera raccolta di ghiande, legna, acqua ed erba nel territorio di Marsico.</cei:abstract>
                     <cei:issued>
-                        <cei:date value="11550599"/>
+                        <cei:date value="11550599">1155 maggio</cei:date>
                     </cei:issued>
                     <cei:witListPar>
                         <cei:witness n="A">
@@ -132,11 +132,11 @@
                         <cei:persName reg="Guillelmus I rex Sicilie, ducatus Apulie et principatus Capue">W<cei:expan>illelmi</cei:expan></cei:persName> regis et eius sobolis vita 
                         <cei:lb/>servanda ut nos etiam iamdictum 
                         <cei:persName reg="Silvester I comes Marsici et III comes Ragusie, f. Goffridi I comitis Ragusie">Silvestrum
-                            <cei:app><cei:placeName>
+                            <cei:placeName><cei:app>
                             <cei:lem wit="#A"> Marsic<cei:expan>i</cei:expan></cei:lem>
                             <cei:rdg wit="#B"/>
                             <cei:rdg wit="#B'">Marsici</cei:rdg>
-                        </cei:placeName></cei:app></cei:persName> comitem et nostros heredes divina dextra Dei protegat et manuteneat et id in hoc agere seculo 
+                        </cei:app></cei:placeName></cei:persName> comitem et nostros heredes divina dextra Dei protegat et manuteneat et id in hoc agere seculo 
                         <cei:lb/>nos doceat ut nostra anima vitam eternam obtineat pro omnium 
                         <cei:app>
                             <cei:lem wit="#A">etiam</cei:lem>
@@ -172,7 +172,7 @@
                             </cei:app>
                         </cei:placeName> penaque data, donatio firma permaneat. Quam etiam cartam nostro tipario plumbea bulla 
                         <cei:app>
-                            <cei:add type="-e /agg. nell'interl. sup./"><cei:lem wit="#A">confirmare</cei:lem></cei:add>
+                            <cei:lem wit="#A"><cei:add type="-e /agg. nell'interl. sup./">confirmare</cei:add></cei:lem>
                             <cei:rdg wit="#B #B'">confirmari</cei:rdg>
                         </cei:app> 
                         <cei:lb/>fecimus et crucem manu nostra causa confirmationis fecimus per manum etiam magistri 
