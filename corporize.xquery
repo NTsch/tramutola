@@ -12,7 +12,7 @@ return
       <cei:fileDesc>
          <cei:titleStmt>
             <cei:title>Carte di monasteri lucani: S. Pietro di Tramutola e S. Maria di Orsoleo</cei:title>
-            <cei:author/>
+            <cei:author>Domenico Scarfiello</cei:author>
          </cei:titleStmt>
          <cei:publicationStmt>
             <cei:p/>

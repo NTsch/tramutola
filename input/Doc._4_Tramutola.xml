@@ -31,11 +31,17 @@
                     </cei:issued>
                     <cei:witnessOrig>
                         <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:figure>
+                            <cei:graphic url="http://images.monasterium.net/img/collections/TramutolaOrsoleo/K62A7612.jpg"/>
+                        </cei:figure>
+                        <cei:figure>
+                            <cei:graphic url="http://images.monasterium.net/img/collections/TramutolaOrsoleo/K62A7610.jpg"/>
+                        </cei:figure>
                         <cei:archIdentifier>
                             <cei:country>Italia</cei:country>, 
                             <cei:settlement>Cava de' Tirreni</cei:settlement>, 
                             <cei:arch>AC</cei:arch>, 
-                            <cei:idno>XXIV 35</cei:idno>
+                            <cei:idno>XXIV 33</cei:idno>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
                             <cei:decoDesc>

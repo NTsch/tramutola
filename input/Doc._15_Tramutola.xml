@@ -29,6 +29,12 @@
                     </cei:issued>
                     <cei:witnessOrig>
                         <cei:traditioForm>Originale</cei:traditioForm>
+                        <cei:figure>
+                            <cei:graphic url="http://images.monasterium.net/img/collections/TramutolaOrsoleo/K62A7642.jpg"/>
+                        </cei:figure>
+                        <cei:figure>
+                            <cei:graphic url="http://images.monasterium.net/img/collections/TramutolaOrsoleo/K62A7640.jpg"/>
+                        </cei:figure>
                         <cei:archIdentifier>
                             <cei:country>Italia</cei:country>, 
                             <cei:settlement>Cava de' Tirreni</cei:settlement>, 
