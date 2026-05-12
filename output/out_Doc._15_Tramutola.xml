@@ -121,7 +121,7 @@
                             <cei:persName reg="Iohannes not. f. Bisantii iud.">Iohannes</cei:persName> notarius qui interfuisse se confitetur; 
                         </cei:setPhrase> mense et indictjone prelatis. 
                         <cei:lb/>
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ 
                             <cei:persName reg="Iaspidus not. et iud.">Iaspidus</cei:persName> hoc totu<cei:expan>m</cei:expan> iudex p<cei:expan>ro</cei:expan>bat ordine notu<cei:expan>m</cei:expan>.

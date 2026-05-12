@@ -152,7 +152,7 @@
                             <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName>
                             <cei:lb/>notarius qui predictis interfui et meo signo signavi. 
                         </cei:setPhrase> 
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Ego iudex
                             <cei:persName reg="Willelmus de sire Laurencio iud.">Guill<cei:expan>elmu</cei:expan>s d<cei:expan>e</cei:expan> sire Laurenc<cei:expan>io</cei:expan></cei:persName> q<cei:expan>ui</cei:expan> sup<cei:expan>ra</cei:expan>.

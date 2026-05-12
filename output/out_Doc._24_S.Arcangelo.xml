@@ -114,7 +114,7 @@
                         <cei:persName reg="Nicolaus not.">Nicolai</cei:persName> puplici dicte terre notarii, mei qui supra iudicis
                         <cei:lb/>et subscriptorum testium subsignationibus roboratum. In quos predictos iudicem et notarium cum sirentd predicti trans<cei:lb/>igentes suos non esse tamquam proprios ex certa conscientia consenserunt.
                         <cei:setPhrase type="Declaratio notarii">Quos scripsi ego idem notarius qui rogatus interfui et meo solito signo signavi.</cei:setPhrase>
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Signum crucis manus proprie iudicis 
                             <cei:persName reg="Amerisius de Sipontina iud.">Amerisii</cei:persName> qui supra.
@@ -123,7 +123,7 @@
                         <cei:subscriptio type="Subscriptio testis">+ Ego notarius 
                             <cei:persName reg="Robertus de Amerisio not.">Robbertus de Amerisio</cei:persName> testis sum.
                         </cei:subscriptio>
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio testis">+ Signum crucis manus proprie 
                             <cei:persName reg="Iohannes de Astillo">Iohannis de Astil<cei:expan>l</cei:expan>o</cei:persName> qui interfuit.

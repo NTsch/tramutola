@@ -135,7 +135,7 @@
                             <cei:persName reg="Iacob de sire Goffredi, not.">Iacob</cei:persName> scripsi et meo signo signavi quia interfui; 
                         </cei:setPhrase>anno, mense, die
                         <cei:lb/>et indictione pretitulatis. 
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Signum crucis proprie manus iudicis
                             <cei:persName reg="Rogerius de Ordeolo iud.">Rogerii de Ordeolo</cei:persName> qui supra.

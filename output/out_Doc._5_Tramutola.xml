@@ -145,7 +145,7 @@
                         <cei:datatio type="Datatio cronica">Anno dominice incarnatjonis millesimo centesimo 
                             <cei:lb/>quadragesimo quarto, mense madio, indictjone septima.
                         </cei:datatio>
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio episcopi">+ Ego 
                             <cei:persName reg="Iohannes II eps. Marsici sedis Grumentane">Ioh<cei:expan>anne</cei:expan>s</cei:persName> 

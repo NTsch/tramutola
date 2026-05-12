@@ -198,8 +198,8 @@
                         <cei:placeName reg="Ss. Trinitatis, eccl. Cave">sancte Trinitatis de Cava</cei:placeName> venerabilis abbas et tuis successoribus a nobis et heredibus nostris et successoribus firma permaneat, hoc privilegium per manus 
                         <cei:persName reg="Lambertus not.">Lamberti</cei:persName> nostri notarii scribi nostrique tiparii plumbea bulla insigniri precepimus et crucis 
                         <cei:lb/>vivifice signum manu propria subter fecimus. 
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>Ubi vero inter lineas disturbatum est in loco qui dicit “sicut videlicet ceteri monasteriorum homines libere manent et absolute” non noceat. 
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>Ubi vero inter lineas disturbatum est in loco qui dicit “sicut videlicet ceteri monasteriorum homines libere manent et absolute” non noceat. 
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio comitis">+ Domni 
                             <cei:persName reg="Silvester I comes Marsici et III comes Ragusie, f. Goffridi I comitis Ragusie">Silvestri</cei:persName> Dei gratia 

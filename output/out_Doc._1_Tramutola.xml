@@ -112,7 +112,7 @@
                             <cei:lb/>atque obligatjonis scripsit 
                             <cei:persName reg="Ildemannus not., iud. et diaconus">Ildemannus</cei:persName> notarius qui interfuisse se confitetur</cei:setPhrase>; mense et indictjone prelatis. 
                         <cei:lb/>
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Ego 
                             <cei:persName reg="Guillelmus iud. f. Ursi iud.">Guli<cei:expan>el</cei:expan>mus</cei:persName> iud<cei:expan>ex</cei:expan> fi<cei:expan>lius</cei:expan> 

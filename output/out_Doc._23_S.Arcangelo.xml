@@ -119,7 +119,7 @@
                             <cei:sic>scribsit</cei:sic>
                             <cei:persName reg="Virgilius not.">Virgilius</cei:persName> predicte civitatis curialis notarius qui interfuit   
                         </cei:setPhrase>m<cei:damage>ense et</cei:damage> in<cei:lb/>diccione prelatis.
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+
                             <cei:persName reg="Bonicius, /v./ Iohannes iud. f. Bonicii">Bonicio</cei:persName> genit<cei:expan>us</cei:expan> iudex hec firmo 

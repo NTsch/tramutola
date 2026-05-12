@@ -73,7 +73,7 @@
     
     <xsl:template match='cei:notariusSign[ancestor::cei:tenor]'>
         <cei:figure>
-            <cei:figDesc>notarial sign</cei:figDesc>
+            <cei:figDesc>[notarial sign]</cei:figDesc>
         </cei:figure>
     </xsl:template>
     

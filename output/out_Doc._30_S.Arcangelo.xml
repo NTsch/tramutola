@@ -135,7 +135,7 @@
                             <cei:persName>Petrus</cei:persName> terre
                             <cei:placeName reg="Sanctum Archangelum">Sancti Archangeli</cei:placeName> puplicus notarius qui predictis interfui et meo so<cei:lb/>lito signo signavi.
                         </cei:setPhrase> 
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Ego
                             <cei:persName reg="Iacob de sire Goffrido">Iacob d<cei:expan>e</cei:expan> sir<cei:expan>e</cei:expan> Goffrid<cei:expan>o</cei:expan></cei:persName> iudex

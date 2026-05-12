@@ -125,7 +125,7 @@
                         <cei:lb/>manus 
                         <cei:persName reg="Iohannes not.">Iohannis</cei:persName> notarii nostri scribi et dari ipsi venerabili priori precepimus et sigillo 
                         <cei:lb/>nostro plumbeo fecimus insigniri et ydoneis testibus roborari; mense et indictione prelatis. 
-                        <cei:lb/><cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:lb/><cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/><cei:subscriptio type="Subscriptio testis">+ Signum manus 
                             <cei:persName reg="Iohannes Burdone dapifer">I<cei:expan>ohannis</cei:expan> Burdonis</cei:persName> domni comitis dapiferi. 
                         </cei:subscriptio>

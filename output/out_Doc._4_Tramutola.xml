@@ -115,7 +115,7 @@
                             <cei:lb/>hunc brebe venditjonis scripsit 
                             <cei:persName reg="Rainaldus iud. et not. f. Piperi not.">Raynaldus</cei:persName> notarius qui interfuisse se confitetur; 
                         </cei:setPhrase> mense et indictjone prelatis.
-                        <cei:lb/><cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:lb/><cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Ego 
                             <cei:persName reg="Riccardus iud.  et archidiaconus">Riccardus</cei:persName> iud<cei:expan>ex</cei:expan>.

@@ -120,7 +120,7 @@
                             <cei:persName reg="Laudisius not.">Laudisius</cei:persName> puplicus eiusdem
                             <cei:lb/>terre notarius quia predictis interfui et meo signo signavi. 
                         </cei:setPhrase>
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Iudex
                             <cei:expan>et</cei:expan> medic<cei:expan>us</cei:expan> hec firmo sc<cei:expan>r</cei:expan>ipta

@@ -110,7 +110,7 @@
                         <cei:persName reg="Salomon not.">Salomoni</cei:persName> nostro notario scribere precepimus et cereo nostro sigillo bullari et eam signo 
                         <cei:lb/>sancte crucis propria manu signavimus. 
                         <cei:datatio type="cronica"> In anno dominice incarnationis millesimo centesimo sexagesimo sexto, mense iunii, indicione quartadecima.</cei:datatio>
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio episcopi">+ 
                             <cei:hi rend="/lettere maiuscole/">Ego 

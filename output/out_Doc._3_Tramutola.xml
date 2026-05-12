@@ -116,7 +116,7 @@
                         <cei:setPhrase type="Declaratio notarii">Et hunc brebe offertjonis scripsit 
                             <cei:persName reg="Rainaldus iud. et not. f. Piperi not.">Raynal<cei:expan>dus</cei:expan></cei:persName> notarius qui interfuisse se confitetur; 
                         </cei:setPhrase>mense et indictjone prelatis.
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Ego 
                             <cei:persName reg="Guillelmus iud. f. Ursi iud.">Guli<cei:expan>el</cei:expan>mus</cei:persName> iud<cei:expan>ex</cei:expan> fi<cei:expan>lius</cei:expan>

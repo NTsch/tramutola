@@ -110,7 +110,7 @@
                             <cei:persName reg="Iohannes curialis not.">Iohannes</cei:persName> predicte civitatis puplicus et curialis notarius qui p<cei:damage>redictis</cei:damage>
                             <cei:lb/>omnibus interfuit;
                         </cei:setPhrase>anno, mense et indictione pretitulatis.
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Hoc iudex verus firmat racione 
                             <cei:persName reg="Rogerius iud.">Rog<cei:expan>erius</cei:expan></cei:persName>.

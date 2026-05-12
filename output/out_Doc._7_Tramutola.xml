@@ -129,7 +129,7 @@
                         <cei:setPhrase type="Declaratio notarii"> Et hanc oblatjonis, traditjonis et obligatjonis cartulam scripsit  
                             <cei:persName reg="Iohannes not. f. Bisantii iud.">Iohannes</cei:persName> notarius qui interfuisse se con<cei:lb/>fitetur; 
                         </cei:setPhrase> mense et indictjone prelatis. 
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+
                             <cei:persName reg="Iaspidus not. et iud.">Iaspidus</cei:persName> hoc totu<cei:expan>m</cei:expan> iudex p<cei:expan>ro</cei:expan>bat ordine notu<cei:expan>m</cei:expan>.

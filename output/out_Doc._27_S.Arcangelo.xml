@@ -129,7 +129,7 @@
                             <cei:persName reg="Iacob de sire Goffrido not.">Iacob</cei:persName> puplicus dicte terre notarius qui predictis interfui et meo solito signo signavi.
                         </cei:setPhrase>
                         <cei:lb/>
-                        <cei:figure><cei:figDesc>notarial sign</cei:figDesc></cei:figure>
+                        <cei:figure><cei:figDesc>[notarial sign]</cei:figDesc></cei:figure>
                         <cei:lb/>
                         <cei:subscriptio type="Subscriptio iudicis">+ Ego iudex
                             <cei:persName reg="Wiillelmus de sire Laurencio iud.">Guill<cei:expan>elmu</cei:expan>s d<cei:expan>e</cei:expan> sire Laurenc<cei:expan>io</cei:expan></cei:persName> q<cei:expan>ui</cei:expan> sup<cei:expan>ra</cei:expan>.
